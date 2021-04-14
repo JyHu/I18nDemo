@@ -1,0 +1,120 @@
+
+
+// --------------------------------------------------
+// --------------------------------------------------
+// Group Name: Default Group
+// --------------------------------------------------
+// --------------------------------------------------
+
+
+// 测试
+"com.auu.localization.testString" = "Prüfung";
+
+
+
+// --------------------------------------------------
+// --------------------------------------------------
+// Group Name: Alert
+// --------------------------------------------------
+// --------------------------------------------------
+
+
+// 取消
+"com.auu.localization.test.alertCancelActionName" = "stornieren";
+
+// 确定
+"com.auu.localization.test.alertConfirmActionNameKey" = "bestimmen";
+
+// 是否现在重启
+"com.auu.localization.test.alertInfoNameKey" = "Ob jetzt neu gestartet werden soll";
+
+
+
+// --------------------------------------------------
+// --------------------------------------------------
+// Group Name: Animals
+// --------------------------------------------------
+// --------------------------------------------------
+
+
+// Tags: animal
+// 猫咪
+"com.auu.localization.test.animals.catNameKey" = "Katze";
+
+// Tags: animal
+// 猎豹
+"com.auu.localization.test.animals.cheetahNameKey" = "Gepard";
+
+// Tags: animal
+// 狗狗
+"com.auu.localization.test.animals.dogNameKey" = "Hund";
+
+// Tags: animal, vegetarian
+// 大象
+"com.auu.localization.test.animals.elephantNameKey" = "Elefant";
+
+// Comment: 鲨鱼属于脊椎动物门软骨纲(Chondrichthyes)板鳃亚纲，海生，少数种类进入淡水，为一群游速快的中大型海洋鱼类。
+// Tags: animal, carnivores, sea
+// 鲨鱼
+"com.auu.localization.test.animals.sharkNameKey" = "Hai";
+
+// Tags: animal
+// 老虎
+"com.auu.localization.test.animals.tigerNameKey" = "Tiger";
+
+
+
+// --------------------------------------------------
+// --------------------------------------------------
+// Group Name: Boxes
+// --------------------------------------------------
+// --------------------------------------------------
+
+
+// 使用Const
+"com.auu.localization.test.constBoxNameKey" = "Verwenden Sie Const";
+
+// 使用Identifier
+"com.auu.localization.test.identifierBoxNameKey" = "Verwenden Sie die Kennung";
+
+// 未本地化
+"com.auu.localization.test.unlocalizedBoxNameKey" = "Nicht lokalisiert";
+
+
+
+// --------------------------------------------------
+// --------------------------------------------------
+// Group Name: Flowers
+// --------------------------------------------------
+// --------------------------------------------------
+
+
+// Tags: flower
+// 桂花
+"com.auu.localization.test.flowers.fragransNameKey" = "Osmanthus";
+
+// Tags: flower
+// 百合花
+"com.auu.localization.test.flowers.lilyNameKey" = "Lilie";
+
+// Tags: flower
+// 牡丹花
+"com.auu.localization.test.flowers.peonyNameKey" = "Pfingstrosenblume";
+
+// Tags: flower
+// 玫瑰
+"com.auu.localization.test.flowers.roseNameKey" = "Rose";
+
+// Tags: flower
+// 向日葵
+"com.auu.localization.test.flowers.sunflowerNameKey" = "Sonnenblume";
+
+
+
+// --------------------------------------------------
+// --------------------------------------------------
+// Group Name: Fruits
+// --------------------------------------------------
+// --------------------------------------------------
+
+

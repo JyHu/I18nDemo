@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.auu.i18n.buildOptions.adaptorTo</key>
+	<string>1.0</string>
+	<key>com.auu.i18n.buildOptions.appVersion</key>
+	<string>1.0</string>
+	<key>com.auu.i18n.buildOptions.buildTime</key>
+	<real>1618035464371.9639</real>
+	<key>com.auu.i18n.buildOptions.buildVersion</key>
+	<string>20210410141008</string>
+	<key>com.auu.i18n.buildOptions.bundleIdentifier</key>
+	<string>com.auu.I18n</string>
+	<key>com.auu.i18n.buildOptions.user</key>
+	<string>jo</string>
+</dict>
+</plist>
