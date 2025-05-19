@@ -1,0 +1,807 @@
+<i18n>
+  <proj cacheID="FD7AA5F2-EAE5-4067-B66F-E705AD499222">
+    <file uid="62zXQHDCes10" location="/OCDemo/Localizable.strings" languages="de,en,ja,zh-Hans" sortedLangs="de,en,ja,zh-Hans" name="Localizable.strings" constPath="/OCDemo/Localization.h" isHidden="0"/>
+    <file uid="Gw1XfobFzy30" location="/OCDemo/Main.strings" languages="de,ja,zh-Hans" sortedLangs="de,ja,zh-Hans" name="Main.strings" isHidden="0"/>
+  </proj>
+  <cache>
+    <groups>
+      <group default="true" id="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <group default="true" id="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+    </groups>
+    <strings>
+      <string uid="YaboHSJwRR60" id="com.auu.localization.test.alertCancelActionName" const="lAlertCancelActionName" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="QDtxsDoi1v40" id="com.auu.localization.test.alertConfirmActionNameKey" const="lAlertConfirmActionNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="KvSfACBpfd20" id="com.auu.localization.test.alertInfoNameKey" const="lAlertInfoNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="Zk1wEzjquC60" id="com.auu.localization.test.animals.catNameKey" const="lAnimalsCatNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="NgAjovVV2c70" id="com.auu.localization.test.animals.cheetahNameKey" const="lAnimalsCheetahNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="xQrYkuXFRp70" id="com.auu.localization.test.animals.dogNameKey" const="lAnimalsDogNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="j28Pc4rWmH90" id="com.auu.localization.test.animals.elephantNameKey" const="lAnimalsElephantNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="UsVsw74Wb710" id="com.auu.localization.test.animals.sharkNameKey" const="lAnimalsSharkNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="uWtEqfJFFA90" id="com.auu.localization.test.animals.tigerNameKey" const="lAnimalsTigerNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="LwBTFz8SPVa0" id="com.auu.localization.test.constBoxNameKey" const="lConstBoxNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="HQ187QH4G2a0" id="com.auu.localization.test.flowers.fragransNameKey" const="lFlowersFragransNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="x52TwIFimW40" id="com.auu.localization.test.flowers.lilyNameKey" const="lFlowersLilyNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="NtnPlgNzAO10" id="com.auu.localization.test.flowers.peonyNameKey" const="lFlowersPeonyNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="gOJTa3UaE090" id="com.auu.localization.test.flowers.roseNameKey" const="lFlowersRoseNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="ThJKllABMj40" id="com.auu.localization.test.flowers.sunflowerNameKey" const="lFlowersSunflowerNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="QabLuA7Uj710" id="com.auu.localization.test.fruits.appleNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="QQzUJ9Rd0A0" id="com.auu.localization.test.fruits.cherryNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="4oc31yds6xa0" id="com.auu.localization.test.identifierBoxNameKey" const="lIdentifierBoxNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="2XUxdy5fGn20" id="com.auu.localization.test.unlocalizedBoxNameKey" const="lUnlocalizedBoxNameKey" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="c2KY2G4UG60" id="com.auu.localization.testString" const="test" group="C317416E-9356-4307-9A24-4F50C92E5651" file="/OCDemo/Localizable.strings"/>
+      <string uid="sj6TsZ9wtc40" id="1UK-8n-QPP.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="eIvhv8LHLi10" id="1Xt-HY-uBw.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="QxvsuEQvzO40" id="1b7-l0-nxx.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="H6lBTznL2S90" id="1tx-W0-xDw.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="3V7GD7zHoR70" id="2h7-ER-AoG.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="zhOHTMf1wL70" id="2oI-Rn-ZJC.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="skaux87FHD10" id="3IN-sU-3Bg.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="2movNIdsif90" id="3Om-Ey-2VK.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="MrcIlS9khl40" id="3rS-ZA-NoH.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="RormbAi2Jv30" id="46P-cB-AYj.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="0gngOgAjAc70" id="4EN-yA-p0u.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="KTjflRhdzt80" id="4J7-dP-txa.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="XOwI0Cy0x480" id="4sb-4s-VLi.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="uSgewYCPlS80" id="5QF-Oa-p0T.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="SuxOc2SHqQ30" id="5Vv-lz-BsD.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="ObjGrV5j8p30" id="5kV-Vb-QxS.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="BD8bAjBh0X50" id="6dh-zS-Vam.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="TmGicCssMI40" id="78Y-hA-62v.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="m3RZbWw25n80" id="8mr-sm-Yjd.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="k5s7f7uq1v40" id="9ic-FL-obx.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="caQ6mwt4sg90" id="9yt-4B-nSM.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="RlKZtYbIuq90" id="AYu-sK-qS6.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="5KJ5kvwdFt80" id="BOF-NM-1cW.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="EBoeQvzjm110" id="BgM-ve-c93.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="hh9T1hU6NI10" id="Bw7-FT-i3A.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="3YtIsEAN1v80" id="DVo-aG-piG.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="9BOas3SP3W90" id="Dv1-io-Yv7.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="EnqSYHozSM90" id="F2S-fz-NVQ.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="TXo8RJsTnV40" id="FKE-Sm-Kum.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="BVOLzcnq9S60" id="Fal-I4-PZk.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="JJbSPPyHFS50" id="FeM-D8-WVr.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="SuP4e2aLRB60" id="GB9-OM-e27.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="EJxjcGvFDW80" id="GCJ-9S-pwe.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="t4FGQF5asG60" id="GEO-Iw-cKr.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="gX6mvGiO2s90" id="GUa-eO-cwY.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="Y4MjQi4crJ30" id="Gi5-1S-RQB.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="zaGa1XYCuc0" id="H1b-Si-o9J.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="ys0opg1hkh0" id="H8h-7b-M4v.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="u1E0nz2UOY30" id="HFQ-gK-NFA.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="KswveQKNn610" id="HFo-cy-zxI.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="luRxoHz85m70" id="HyV-fh-RgO.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="7zkAjZVkwZ30" id="I0S-gh-46l.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="Gqgenm93pY70" id="IAo-SY-fd9.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="htWqDCx5TZ20" id="IQv-IB-iLA.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="KQXlr3mb1f80" id="J5U-5w-g23.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="EYYflROVSF70" id="J7y-lM-qPV.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="M65pl9fRh420" id="KaW-ft-85H.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="mpaSSL6PBv60" id="Kd2-mp-pUS.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="oXhiCFEISq10" id="LE2-aR-0XJ.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="Icu6EblCdW20" id="LVM-kO-fVI.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="8OYGOPFbBJ20" id="Lbh-J2-qVU.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="SyiPldQd8h60" id="MkV-Pr-PK5.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="h4QyHcNTsU50" id="NMo-om-nkz.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="nMjLxHki1d50" id="Nop-cj-93Q.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="zNU00LzZ3Q60" id="OY7-WF-poV.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="isAPQwDwZo20" id="OaQ-X3-Vso.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="PWgcG03lea70" id="Olw-nP-bQN.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="QNcJbtCHHI90" id="OwM-mh-QMV.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="5LbhBMCM3D50" id="Oyz-dy-DGm.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="WXeKKHsYif30" id="Ptp-SP-VEL.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="BKojx7zbu440" id="Q5e-8K-NDq.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="3JRInoVvXe60" id="R4o-n2-Eq4.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="Ahcl6KoKU3a0" id="RB4-Sm-HuC.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="x5TqzXP9GM60" id="Rqc-34-cIF.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="UkUGrqtR5u60" id="Ruw-6m-B2m.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="skt5zAFk3e40" id="S0p-oC-mLd.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="KamQcd1kxD30" id="Td7-aD-5lo.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="tqvA0nPLJv40" id="UEZ-Bs-lqG.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="7HJFtw7PjX10" id="VIY-Ag-zcb.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="l3g6dJVhuI90" id="Vdr-fp-XzO.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="Cr8WTiRAFY30" id="Vjx-xi-njq.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="LXkNvXABPR60" id="W48-6f-4Dl.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="MqWFnRLie080" id="WRG-CD-K1S.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="DtEJ5HTqad10" id="Was-JA-tGl.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="DOWRgCzhGq0" id="WeT-3V-zwk.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="BQmT3kGESg50" id="Xz5-n4-O0W.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="109EpFHe8Y60" id="YEy-JH-Tfz.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="oVLzFGkxoA90" id="YGs-j5-SAR.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="LZlYdjd6JW30" id="Ynk-f8-cLZ.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="kuew4mkBrX50" id="ZM1-6Q-yy1.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="5sEEScZrxo40" id="ZvO-Gk-QUH.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="e93wH6G45H30" id="aTl-1u-JFS.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="utlSi5rhfH10" id="aUF-d1-5bR.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="43bvqdGlQ470" id="aXa-aM-Jaq.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="ZufE3J3Jny70" id="agt-UL-0e3.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="VtgAlG245l70" id="bgn-CT-cEk.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="VBCzJhKlUG40" id="bib-Uj-vzu.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="kL2ZZpaQwCa0" id="buJ-ug-pKt.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="ib8ljN2Un2a0" id="c8a-y6-VQd.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="9wIo2iLKOH90" id="cDB-IK-hbR.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="cnsnJEJp4s50" id="cqv-fj-IhA.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="CV4qA1bS3I30" id="cwL-P1-jid.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="f7Q6l9gYSFa0" id="d9M-CD-aMd.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="a2gkwUqAE010" id="d9c-me-L2H.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="eQmHdroiVp50" id="dMs-cI-mzQ.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="yUWsTW0SRw50" id="dRJ-4n-Yzg.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="LPqJi00EvH50" id="g9f-Jm-E8a.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="WZaEByzMCK20" id="gVA-U4-sdL.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="MTcBFBim6na0" id="hQb-2v-fYv.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="yKSXkIcz0D50" id="hz2-CU-CR7.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="vaC35EgYJu10" id="hz9-B4-Xy5.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="fi2H44G7c070" id="i1d-Er-qST.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="P2iRrO7DCsa0" id="ijk-EB-dga.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="OmxCKCCmYs0" id="jBQ-r6-VK2.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="2tvnfFXNZa60" id="jFq-tB-4Kx.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="aSOsQxTcwQ90" id="jxT-CU-nIS.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="YYW0TRMBmK70" id="kIP-vf-haE.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="tJ6V9wKcMw40" id="mK6-2p-4JG.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="bZMmThMcn3a0" id="o6e-r0-MWq.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="mzzKivjNaF40" id="oas-Oc-fiZ.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="lqMhSIauUO90" id="ogc-rX-tC1.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="4NTs6WxjdI30" id="pa3-QI-u2k.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="InXABqXVVs10" id="pxx-59-PXV.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="7zja3ine9I90" id="q09-fT-Sye.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="lPWTB9YB6Y40" id="qIS-W8-SiK.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="iCxv4uj2mt40" id="rbD-Rh-wIN.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="aVy3Y5ykX940" id="rgM-f4-ycn.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="U6h6Or3i0Z60" id="snW-S8-Cw5.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="El5gahhzHs30" id="tRr-pd-1PS.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="Xve5g7Obv960" id="tSv-cL-Fhk.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="b387DgCOSY10" id="tXI-mr-wws.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="lWq1yEAhpr30" id="tlD-Oa-oAM.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="VOEKXbAonb80" id="uQy-DD-JDr.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="FRJ25XfPye40" id="uRl-iY-unG.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="TrC28Cthkr80" id="vKC-jM-MkH.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="ROP8iTx0bC40" id="vLm-3I-IUL.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="VpwYypqrgG70" id="vNY-rz-j42.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="nms2WpETvx50" id="vmV-6d-7jI.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="6Jf3vfMQuN80" id="w0m-vy-SC9.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="qlLrxg34kda0" id="wb2-vD-lq4.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="rbTYEpvuYX90" id="wpr-3q-Mcd.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="2Ysvz7uG5d0" id="x3v-GG-iWU.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="b2OCTiAonNa0" id="xQD-1f-W4t.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="OW59ATL4LWa0" id="xrE-MZ-jX0.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+      <string uid="2DwRNtqxHJ10" id="z6F-FW-3nz.title" group="74305A3E-E037-49E8-8DA4-882BBCE770DC" file="/OCDemo/Main.strings"/>
+    </strings>
+    <langs>
+      <lang uid="YaboHSJwRR60" de="hRBNPD8dLga0" en="pU0kjAYcLga0" ja="RO8eEuccLga0" zh-Hans="U1isNblWci0"/>
+      <lang uid="QDtxsDoi1v40" de="YZgI0VZBPa30" en="AChI0VZBPa30" ja="eBkI0VZBPa30" zh-Hans="jrP0798BYW0"/>
+      <lang uid="KvSfACBpfd20" de="ZfCI4LtGVF10" en="7BODArtGVF10" ja="z1zFpWrGVF10" zh-Hans="20uZbV38uM10"/>
+      <lang uid="Zk1wEzjquC60" de="qsEwLC3Xbn0" en="2TQPHS4Xbn0" ja="GbQIpTaXbn0" zh-Hans="FERnwzHSB940"/>
+      <lang uid="NgAjovVV2c70" de="2BaGxIDa2g70" en="CJaGxIDa2g70" ja="EobGxIDa2g70" zh-Hans="HuLCS1tJo960"/>
+      <lang uid="xQrYkuXFRp70" de="cUyzICCTDm70" en="AtmgMmBTDm70" ja="Wann4mvTDm70" zh-Hans="f0lD3C1LNW0"/>
+      <lang uid="j28Pc4rWmH90" de="eTkqX1dLZE40" en="66lqX1dLZE40" ja="E5mqX1dLZE40" zh-Hans="Jly4nkVAW160"/>
+      <lang uid="UsVsw74Wb710" de="ToLv4ZZZOe40" en="jTXgjXUZOe40" ja="hG1JtUwZOe40" zh-Hans="iGsrfmMybt60"/>
+      <lang uid="uWtEqfJFFA90" de="liQrWrI1xg50" en="LM2dbqD1xg50" ja="Jz6Flnf1xg50" zh-Hans="QkA7LFxr0J30"/>
+      <lang uid="LwBTFz8SPVa0" de="s4E3naNsZta0" en="Scf1D0NsZta0" ja="Qf7x2gMsZta0" zh-Hans="pKfYX4e9Oi20"/>
+      <lang uid="HQ187QH4G2a0" de="0Kb0kWndgQ0" en="SWb0kWndgQ0" ja="qWc0kWndgQ0" zh-Hans="XiPj7KVimm60"/>
+      <lang uid="x52TwIFimW40" de="qy9tc0NajX50" en="mly55wPajX50" ja="8CwRux1bjX50" zh-Hans="lVKF5n5gY250"/>
+      <lang uid="NtnPlgNzAO10" de="swgB9kOBW690" en="224QUlTBW690" ja="4f0oKohCW690" zh-Hans="racRfztPru90"/>
+      <lang uid="gOJTa3UaE090" de="LtRZvqVDCT40" en="HggCoWXDCT40" ja="txeoOX9ECT40" zh-Hans="WM4vhWLzLv60"/>
+      <lang uid="ThJKllABMj40" de="SmFT0ktUWt30" en="q1FT0ktUWt30" ja="QmDT0ktUWt30" zh-Hans="hSLlzKVwXm90"/>
+      <lang uid="QabLuA7Uj710" zh-Hans="oXLgcjRK6ja0"/>
+      <lang uid="QQzUJ9Rd0A0" ja="VLWO9gUl3S70"/>
+      <lang uid="4oc31yds6xa0" de="RQUD4oJABMa0" en="rmISPpOABMa0" ja="tzEqFscBBMa0" zh-Hans="a8U88mX0zj80"/>
+      <lang uid="2XUxdy5fGn20" de="JFCeJyxdg920" en="RI1Lcvndg920" ja="jD9FxpBcg920" zh-Hans="U5BoUdhI5i30"/>
+      <lang uid="c2KY2G4UG60" de="PK043DfXmt40" en="fbrt2DfXmt40" ja="dKxEZCfXmt40" zh-Hans="uMFSi9jBLH10"/>
+      <lang uid="sj6TsZ9wtc40" de="ENHA3bzCQ790" ja="20HA3bzCQ790" zh-Hans="eb7SINQMwq60"/>
+      <lang uid="eIvhv8LHLi10" de="GgODmlObyr40" ja="4tNDmlObyr40" zh-Hans="8ep98l1QQha0"/>
+      <lang uid="QxvsuEQvzO40" de="eEbSrufZoA80" ja="CQaSrufZoA80" zh-Hans="uFbHWbAbdX30"/>
+      <lang uid="H6lBTznL2S90" de="enPBUcOrML30" ja="CzOBUcOrML30" zh-Hans="9YdfkZUaRg60"/>
+      <lang uid="3V7GD7zHoR70" de="WBVwIDnblM20" ja="kOUwIDnblM20" zh-Hans="rgqr90GoAz30"/>
+      <lang uid="zhOHTMf1wL70" de="yXXHdUe3hp50" ja="W9XHdUe3hp50" zh-Hans="9GecC9F5Hna0"/>
+      <lang uid="skaux87FHD10" de="sj6HOevNog50" ja="Qv5HOevNog50" zh-Hans="mYgNOkio2r80"/>
+      <lang uid="2movNIdsif90" de="cn0CcHNyAR60" ja="Oa1CcHNyAR60" zh-Hans="AwGKOxXoRe60"/>
+      <lang uid="MrcIlS9khl40" de="O4RQeuVZBV50" ja="qSRQeuVZBV50" zh-Hans="MoXZpFCE2a0"/>
+      <lang uid="RormbAi2Jv30" de="6Lz1aTqY9D20" ja="uXy1aTqY9D20" zh-Hans="XmOXqg6F1Ga0"/>
+      <lang uid="0gngOgAjAc70" de="gBr1PRz1140" ja="Sos1PRz1140" zh-Hans="6icy119qmn20"/>
+      <lang uid="KTjflRhdzt80" de="6YFdJjR41D80" ja="ILGdJjR41D80" zh-Hans="iad2dVITqH60"/>
+      <lang uid="XOwI0Cy0x480" de="ORdo6tVaVz0" ja="c4do6tVaVz0" zh-Hans="BnyDZ5rral30"/>
+      <lang uid="uSgewYCPlS80" de="wJM5npoSrT0" ja="8xN5npoSrT0" zh-Hans="oIF3QMf5F190"/>
+      <lang uid="SuxOc2SHqQ30" de="UL39jCC3oj30" ja="wz49jCC3oj30" zh-Hans="UwLgDrEFt720"/>
+      <lang uid="ObjGrV5j8p30" de="khKZO0kbHl90" ja="W4LZO0kbHl90" zh-Hans="W6L0Vvicfj90"/>
+      <lang uid="BD8bAjBh0X50" de="CR0eYUBXLA40" ja="040eYUBXLA40" zh-Hans="drSa5Ani5xa0"/>
+      <lang uid="TmGicCssMI40" de="EMtENbm9Yv10" ja="gAuENbm9Yv10" zh-Hans="7eCJFdMoej90"/>
+      <lang uid="m3RZbWw25n80" de="CSNfppXcjs40" ja="05NfppXcjs40" zh-Hans="CUxsueJBbf80"/>
+      <lang uid="k5s7f7uq1v40" de="2Czo9DIXbka0" ja="qOyo9DIXbka0" zh-Hans="o2SlIm2vgC20"/>
+      <lang uid="caQ6mwt4sg90" de="AphjwEtDAS90" ja="YBgjwEtDAS90" zh-Hans="KYyx9IEilV90"/>
+      <lang uid="RlKZtYbIuq90" de="oUxuScE7Ld10" ja="0IyuScE7Ld10" zh-Hans="Taqd6ssRnc0"/>
+      <lang uid="5KJ5kvwdFt80" de="UMMIYgHdu660" ja="iZLIYgHdu660" zh-Hans="hf5yV9ElbX70"/>
+      <lang uid="EBoeQvzjm110" de="cj8rkBBbiJ10" ja="O69rkBBbiJ10" zh-Hans="wM3CWcxkto70"/>
+      <lang uid="hh9T1hU6NI10" de="iVdqWGw7U2a0" ja="G7dqWGw7U2a0" zh-Hans="nn5MysQFWj40"/>
+      <lang uid="3YtIsEAN1v80" de="gkyeZFOvLV80" ja="S7zeZFOvLV80" zh-Hans="ZDjvdp4QAa10"/>
+      <lang uid="9BOas3SP3W90" de="6ZRiP30bLk30" ja="ubRiP30bLk30" zh-Hans="fkf3xzMkjH10"/>
+      <lang uid="EnqSYHozSM90" de="SuPNlamwbu30" ja="uiQNlamwbu30" zh-Hans="erVzqyTJHf0"/>
+      <lang uid="TXo8RJsTnV40" de="WNr2iAOCyR0" ja="yBs2iAOCyR0" zh-Hans="Xuib1i3jzG0"/>
+      <lang uid="BVOLzcnq9S60" de="Ew0Mfk8PeH40" ja="gk1Mfk8PeH40" zh-Hans="18mTzjB4Ca40"/>
+      <lang uid="JJbSPPyHFS50" de="CvR9mzGvVF0" ja="ejS9mzGvVF0" zh-Hans="lzWtG3k50G10"/>
+      <lang uid="SuP4e2aLRB60" de="G6NNeZ6CZj40" ja="4jMNeZ6CZj40" zh-Hans="el7phuPxrV10"/>
+      <lang uid="EJxjcGvFDW80" de="G0wY1QXX3ya0" ja="4dvY1QXX3ya0" zh-Hans="Mmpuftl0ne50"/>
+      <lang uid="t4FGQF5asG60" de="aFxTwOW5Br40" ja="MsyTwOW5Br40" zh-Hans="5hd4WpvWSw70"/>
+      <lang uid="gX6mvGiO2s90" de="ojgX5GsGhE10" ja="MvfX5GsGhE10" zh-Hans="q5ml2XOQNi50"/>
+      <lang uid="Y4MjQi4crJ30" de="KaRFnmo1p180" ja="8nQFnmo1p180" zh-Hans="iCHBAL1WQ170"/>
+      <lang uid="zaGa1XYCuc0" de="KrKWW1Dmtu40" ja="8EJWW1Dmtu40" zh-Hans="Flfs81Y8JD60"/>
+      <lang uid="ys0opg1hkh0" de="ymXw4BkkeT20" ja="WyWw4BkkeT20" zh-Hans="EY71NinX9i20"/>
+      <lang uid="u1E0nz2UOY30" de="WMNt7ICAv650" ja="kZMt7ICAv650" zh-Hans="6mRyeurd9v0"/>
+      <lang uid="KswveQKNn610" de="UtacL0BasF80" ja="whbcL0BasF80" zh-Hans="YeUcNSsdzY30"/>
+      <lang uid="luRxoHz85m70" de="O10FEEhIKb10" ja="qP0FEEhIKb10" zh-Hans="JAnhpr8EDa20"/>
+      <lang uid="7zkAjZVkwZ30" de="oAQULdZHwX50" ja="0oRULdZHwX50" zh-Hans="9YjCitvGTQ70"/>
+      <lang uid="Gqgenm93pY70" de="CWIeTkv3Fe30" ja="09IeTkv3Fe30" zh-Hans="M0rEMrm1QW0"/>
+      <lang uid="htWqDCx5TZ20" de="OBQfx0TzK930" ja="cOPfx0TzK930" zh-Hans="ZbBXzBJVVV50"/>
+      <lang uid="KQXlr3mb1f80" de="8F56UC706p40" ja="wR46UC706p40" zh-Hans="A2ATXISmpt70"/>
+      <lang uid="EYYflROVSF70" de="E3qPhxMWbt50" ja="gRqPhxMWbt50" zh-Hans="sRrbKMaSoz20"/>
+      <lang uid="M65pl9fRh420" de="kHYM6IEKN080" ja="ITXM6IEKN080" zh-Hans="G4OHWHUYMu30"/>
+      <lang uid="mpaSSL6PBv60" de="sZ4Xs1Ohub40" ja="4N5Xs1Ohub40" zh-Hans="k1wMMhhTk980"/>
+      <lang uid="oXhiCFEISq10" de="yIIFPSTKLH30" ja="WUHFPSTKLH30" zh-Hans="Q0EElSIH9Y20"/>
+      <lang uid="Icu6EblCdW20" de="sRQrOnLHPZ80" ja="4FRrOnLHPZ80" zh-Hans="S2H3bADSBj40"/>
+      <lang uid="8OYGOPFbBJ20" de="YrYiVlUbyX50" ja="mEXiVlUbyX50" zh-Hans="MnCwV1k0PF50"/>
+      <lang uid="SyiPldQd8h60" de="Cc1ip93c6540" ja="0p0ip93c6540" zh-Hans="04nbyhKV9o40"/>
+      <lang uid="h4QyHcNTsU50" de="aBCBRANK8ua0" ja="yNBBRANK8ua0" zh-Hans="17499gNYBP40"/>
+      <lang uid="nMjLxHki1d50" de="SrVZEknUEz90" ja="ufWZEknUEz90" zh-Hans="v3xukpqUqo30"/>
+      <lang uid="zNU00LzZ3Q60" de="O3rbPIH2VK90" ja="qRrbPIH2VK90" zh-Hans="lFUaM8PfzF80"/>
+      <lang uid="isAPQwDwZo20" de="Y7BLwBm1Ng10" ja="mkALwBm1Ng10" zh-Hans="iflT73m1eK40"/>
+      <lang uid="PWgcG03lea70" de="Sh3Iz3VWp910" ja="gu2Iz3VWp910" zh-Hans="x8X0ZtVed210"/>
+      <lang uid="QNcJbtCHHI90" de="uAgc5ENPvG80" ja="6ohc5ENPvG80" zh-Hans="OzRbKo1mDK10"/>
+      <lang uid="5LbhBMCM3D50" de="qvyNiYQ4Sr70" ja="2jzNiYQ4Sr70" zh-Hans="PkgrSO59nC60"/>
+      <lang uid="WXeKKHsYif30" de="IvaMqqF7dM30" ja="6I9MqqF7dM30" zh-Hans="CIiUtG3t7B0"/>
+      <lang uid="BKojx7zbu440" de="ad0WxAsGso40" ja="M01WxAsGso40" zh-Hans="VLQTSQMpbW50"/>
+      <lang uid="3JRInoVvXe60" de="WvW4hnrXdd40" ja="kIV4hnrXdd40" zh-Hans="3FjNREF23pa0"/>
+      <lang uid="Ahcl6KoKU3a0" de="UJ0cCiZW4U80" ja="wx1cCiZW4U80" zh-Hans="seHJkV8eG520"/>
+      <lang uid="x5TqzXP9GM60" de="aRdGzcUvlD70" ja="y3dGzcUvlD70" zh-Hans="XFDiJoFqsz50"/>
+      <lang uid="UkUGrqtR5u60" de="8tEQg7bhyX20" ja="wFDQg7bhyX20" zh-Hans="aKuhSpW7XH70"/>
+      <lang uid="skt5zAFk3e40" de="ER0sxQbW9650" ja="240sxQbW9650" zh-Hans="y6hh9AtqDF50"/>
+      <lang uid="KamQcd1kxD30" de="OYhxwTJKeA20" ja="qMixwTJKeA20" zh-Hans="kwllqrx7Vua0"/>
+      <lang uid="tqvA0nPLJv40" de="SlvKEm9ags10" ja="gyuKEm9ags10" zh-Hans="HDr4OEJzGr30"/>
+      <lang uid="7HJFtw7PjX10" de="cWr6yIx0M450" ja="A8r6yIx0M450" zh-Hans="xj2LL7hHrV40"/>
+      <lang uid="l3g6dJVhuI90" de="caFXJMpMI480" ja="OXFXJMpMI480" zh-Hans="hwAiH7kxIo30"/>
+      <lang uid="Cr8WTiRAFY30" de="aMMFvsn1fd80" ja="MzNFvsn1fd80" zh-Hans="QlvVA2IcJz70"/>
+      <lang uid="LXkNvXABPR60" de="m5YEBbgREG60" ja="KhXEBbgREG60" zh-Hans="7QIOytvWZu0"/>
+      <lang uid="MqWFnRLie080" de="GQWmGkQ3yT50" ja="iEXmGkQ3yT50" zh-Hans="07Znl9wfYv40"/>
+      <lang uid="DtEJ5HTqad10" de="s8ljgSFDB550" ja="4WljgSFDB550" zh-Hans="vVhxFjw7KJ40"/>
+      <lang uid="DOWRgCzhGq0" de="wWPWzFV7cla0" ja="8KQWzFV7cla0" zh-Hans="3kXLSJyRl740"/>
+      <lang uid="BQmT3kGESg50" de="YSJOKvgP6D80" ja="m5JOKvgP6D80" zh-Hans="PgOixRkwLZ80"/>
+      <lang uid="109EpFHe8Y60" de="WDfeFWoYWB50" ja="yrgeFWoYWB50" zh-Hans="jkb4jG1sHla0"/>
+      <lang uid="oVLzFGkxoA90" de="OIc3TLRmj170" ja="cVb3TLRmj170" zh-Hans="6F4B17qF2B60"/>
+      <lang uid="LZlYdjd6JW30" de="OLHyH96UHk10" ja="cYGyH96UHk10" zh-Hans="x1fKWtoZg970"/>
+      <lang uid="kuew4mkBrX50" de="a0tGUyQRly10" ja="ycsGUyQRly10" zh-Hans="m6dUE7c3J090"/>
+      <lang uid="5sEEScZrxo40" de="wYTgH2evmd50" ja="UaTgH2evmd50" zh-Hans="XEYKP52ByR80"/>
+      <lang uid="e93wH6G45H30" de="G8J20nNbfo40" ja="4lI20nNbfo40" zh-Hans="MBjtf03Zgf70"/>
+      <lang uid="utlSi5rhfH10" de="i2rbc3KBHg30" ja="UPrbc3KBHg30" zh-Hans="0xlPTCGE3550"/>
+      <lang uid="43bvqdGlQ470" de="oX8Rnfdvvy50" ja="M98Rnfdvvy50" zh-Hans="wsuqTiy9Io90"/>
+      <lang uid="ZufE3J3Jny70" de="A26wMtNYem50" ja="cQ6wMtNYem50" zh-Hans="1wsQVaDEmp70"/>
+      <lang uid="VtgAlG245l70" de="aLlAV9hdWM20" ja="MymAV9hdWM20" zh-Hans="X742LaRLey50"/>
+      <lang uid="VBCzJhKlUG40" de="29yzjwKWLB30" ja="qlxzjwKWLB30" zh-Hans="ZLLlsszfKR80"/>
+      <lang uid="kL2ZZpaQwCa0" de="mc3Ks2A7Yb20" ja="Ko2Ks2A7Yb20" zh-Hans="mvIsrbPbQfa0"/>
+      <lang uid="ib8ljN2Un2a0" de="K6IbKFTUTE50" ja="mUIbKFTUTE50" zh-Hans="mIcgYq7JE560"/>
+      <lang uid="9wIo2iLKOH90" de="E6xIUOzPTI10" ja="gUxIUOzPTI10" zh-Hans="XCBpjooxrK20"/>
+      <lang uid="cnsnJEJp4s50" de="0D6svmgSBw20" ja="oP5svmgSBw20" zh-Hans="4eezuQQcgi90"/>
+      <lang uid="CV4qA1bS3I30" de="OC9sqyXY8a0" ja="qqasqyXY8a0" zh-Hans="QnU6T1XFbD20"/>
+      <lang uid="f7Q6l9gYSFa0" de="Ui0ZiH8b5Q50" ja="ivZYiH8b5Q50" zh-Hans="puBCMYcP5P80"/>
+      <lang uid="a2gkwUqAE010" de="uA6shTIWH640" ja="6o7shTIWH640" zh-Hans="6TzM5IrsX070"/>
+      <lang uid="eQmHdroiVp50" de="28gOs2tBvp30" ja="qkfOs2tBvp30" zh-Hans="2Xu9aeHf0480"/>
+      <lang uid="yUWsTW0SRw50" de="ELrukoITK060" ja="gzsukoITK060" zh-Hans="gaRHq5zorC80"/>
+      <lang uid="LPqJi00EvH50" de="G1jsNzFrDj60" ja="iPjsNzFrDj60" zh-Hans="Fk4Pj4cFdy60"/>
+      <lang uid="WZaEByzMCK20" de="UldQivffT610" ja="w9eQivffT610" zh-Hans="oncQ6nsEsm30"/>
+      <lang uid="MTcBFBim6na0" de="mIaVoF8vFt40" ja="YvbVoF8vFt40" zh-Hans="6LTtP5BpkI40"/>
+      <lang uid="yKSXkIcz0D50" de="EJcwi1f4qw90" ja="gxdwi1f4qw90" zh-Hans="AMAlWpWXh130"/>
+      <lang uid="vaC35EgYJu10" de="wAFBbcdYCu60" ja="UMEBbcdYCu60" zh-Hans="13WqSvQrK930"/>
+      <lang uid="fi2H44G7c070" de="AiEhO9nSSI40" ja="YuDhO9nSSI40" zh-Hans="h9kpVzbHZb70"/>
+      <lang uid="P2iRrO7DCsa0" de="I20LGbYFKt60" ja="kQ0LGbYFKt60" zh-Hans="zHm1ps6GZW0"/>
+      <lang uid="OmxCKCCmYs0" de="wXRyhiA0Ce10" ja="8LSyhiA0Ce10" zh-Hans="uL7K6tPHvJ10"/>
+      <lang uid="2tvnfFXNZa60" de="yy2Q9YeGsFa0" ja="WK1Q9YeGsFa0" zh-Hans="w7WqgGpeaM50"/>
+      <lang uid="aSOsQxTcwQ90" de="IBl746IsU230" ja="kpm746IsU230" zh-Hans="2RvnPICkO050"/>
+      <lang uid="YYW0TRMBmK70" de="ABqH8oV09Za0" ja="cprH8oV09Za0" zh-Hans="klFnsNXvxt70"/>
+      <lang uid="tJ6V9wKcMw40" de="Qu8iH2P1P510" ja="si9iH2P1P510" zh-Hans="9x8lp9bcyz0"/>
+      <lang uid="bZMmThMcn3a0" de="EQEqOKIp0M70" ja="23EqOKIp0M70" zh-Hans="PfIDVv9gI980"/>
+      <lang uid="mzzKivjNaF40" de="89tS5OHhin20" ja="KWtS5OHhin20" zh-Hans="KcXN6fFGdX40"/>
+      <lang uid="lqMhSIauUO90" de="oO8NRsucjy60" ja="M08NRsucjy60" zh-Hans="3Q1ZL4sLDK90"/>
+      <lang uid="4NTs6WxjdI30" de="8H3wDIEcGc90" ja="Ku4wDIEcGc90" zh-Hans="CVcLiM163o60"/>
+      <lang uid="InXABqXVVs10" de="k9J01Fxnyy30" ja="WWJ01Fxnyy30" zh-Hans="qpw2lQnRNE30"/>
+      <lang uid="7zja3ine9I90" de="2vfxg96xcZ50" ja="Eigxg96xcZ50" zh-Hans="LNbFnVAl3550"/>
+      <lang uid="lPWTB9YB6Y40" de="oIfjVX7ec070" ja="0wgjVX7ec070" zh-Hans="fpto5IeZu720"/>
+      <lang uid="iCxv4uj2mt40" de="6gu6Q90Jmf0" ja="I3v6Q90Jmf0" zh-Hans="wEb4e8U9uj20"/>
+      <lang uid="aVy3Y5ykX940" de="QhsQqDj7Zua0" ja="s5tQqDj7Zua0" zh-Hans="KUayBG9dff70"/>
+      <lang uid="U6h6Or3i0Z60" de="01YqVDa0nSa0" ja="odXqVDa0nSa0" zh-Hans="SE7UvqNhpC50"/>
+      <lang uid="El5gahhzHs30" de="SWRnltdfML50" ja="uKSnltdfML50" zh-Hans="0c3lzy67Tm10"/>
+      <lang uid="Xve5g7Obv960" de="AYL0widlR030" ja="YaL0widlR030" zh-Hans="p8OeiOLAaW70"/>
+      <lang uid="b387DgCOSY10" de="wODOarvsoI90" ja="U0DOarvsoI90" zh-Hans="DO3avY5i3a10"/>
+      <lang uid="lWq1yEAhpr30" de="C7CEKhdFHB20" ja="eVCEKhdFHB20" zh-Hans="lggVeqLdRj20"/>
+      <lang uid="VOEKXbAonb80" de="MSSVrJE0dk20" ja="a5SVrJE0dk20" zh-Hans="rAMMR3qR9I20"/>
+      <lang uid="FRJ25XfPye40" de="4AmVEiJh1A10" ja="GnnVEiJh1A10" zh-Hans="7d0L1bjXW260"/>
+      <lang uid="TrC28Cthkr80" de="SvtK8qIZfk40" ja="gIsK8qIZfk40" zh-Hans="r1GdfsaswY60"/>
+      <lang uid="ROP8iTx0bC40" de="ICKOomqYLg40" ja="6PJOomqYLg40" zh-Hans="JMjDlbBpzO0"/>
+      <lang uid="VpwYypqrgG70" de="iNWZnxAA0ha0" ja="GZVZnxAA0ha0" zh-Hans="jfUCf2J4OU20"/>
+      <lang uid="nms2WpETvx50" de="SphqYkIzRVa0" ja="gCgqYkIzRVa0" zh-Hans="90sEs0nudC40"/>
+      <lang uid="6Jf3vfMQuN80" de="4xqlHikxsv40" ja="GkrlHikxsv40" zh-Hans="eCsMaOOJjGa0"/>
+      <lang uid="qlLrxg34kda0" de="kP8pMAkuFf30" ja="I18pMAkuFf30" zh-Hans="ohGUV33KQp40"/>
+      <lang uid="rbTYEpvuYX90" de="QIlOhWJry720" ja="swmOhWJry720" zh-Hans="5rtsn39kVl40"/>
+      <lang uid="2Ysvz7uG5d0" de="YfaMrBoIil90" ja="A3bMrBoIil90" zh-Hans="kQjd9U6yPJ0"/>
+      <lang uid="b2OCTiAonNa0" de="8m2Bh7bf6C20" ja="wy1Bh7bf6C20" zh-Hans="PE3onojEt670"/>
+      <lang uid="OW59ATL4LWa0" de="Qp1H9drQlQ60" ja="sd2H9drQlQ60" zh-Hans="0aAbwqZB9V60"/>
+      <lang uid="2DwRNtqxHJ10" de="u8tZD5CHzr60" ja="6WtZD5CHzr60" zh-Hans="4tbE29hgjD50"/>
+    </langs>
+    <texts>
+      <text uid="hRBNPD8dLga0" value="stornieren"/>
+      <text uid="pU0kjAYcLga0" value="Cancel"/>
+      <text uid="RO8eEuccLga0" value="キャンセル"/>
+      <text uid="U1isNblWci0" value="取消"/>
+      <text uid="YZgI0VZBPa30" value="bestimmen"/>
+      <text uid="AChI0VZBPa30" value="Confirm"/>
+      <text uid="eBkI0VZBPa30" value="決定する"/>
+      <text uid="jrP0798BYW0" value="确定"/>
+      <text uid="ZfCI4LtGVF10" value="Ob jetzt neu gestartet werden soll"/>
+      <text uid="7BODArtGVF10" value="Restart now or not"/>
+      <text uid="z1zFpWrGVF10" value="今から再開するか"/>
+      <text uid="20uZbV38uM10" value="是否现在重启"/>
+      <text uid="qsEwLC3Xbn0" value="Katze"/>
+      <text uid="2TQPHS4Xbn0" value="Cat"/>
+      <text uid="GbQIpTaXbn0" value="ネコ"/>
+      <text uid="FERnwzHSB940" value="猫咪"/>
+      <text uid="2BaGxIDa2g70" value="Gepard"/>
+      <text uid="CJaGxIDa2g70" value="Cheetah"/>
+      <text uid="EobGxIDa2g70" value="チーター"/>
+      <text uid="HuLCS1tJo960" value="猎豹"/>
+      <text uid="cUyzICCTDm70" value="Hund"/>
+      <text uid="AtmgMmBTDm70" value="Dog"/>
+      <text uid="Wann4mvTDm70" value="犬"/>
+      <text uid="f0lD3C1LNW0" value="狗狗"/>
+      <text uid="eTkqX1dLZE40" value="Elefant"/>
+      <text uid="66lqX1dLZE40" value="Elephant"/>
+      <text uid="E5mqX1dLZE40" value="象"/>
+      <text uid="Jly4nkVAW160" value="大象"/>
+      <text uid="ToLv4ZZZOe40" value="Hai"/>
+      <text uid="jTXgjXUZOe40" value="Shark"/>
+      <text uid="hG1JtUwZOe40" value="鮫"/>
+      <text uid="iGsrfmMybt60" value="鲨鱼"/>
+      <text uid="liQrWrI1xg50" value="Tiger"/>
+      <text uid="LM2dbqD1xg50" value="Tiger"/>
+      <text uid="Jz6Flnf1xg50" value="虎"/>
+      <text uid="QkA7LFxr0J30" value="老虎"/>
+      <text uid="s4E3naNsZta0" value="Verwenden Sie Const"/>
+      <text uid="Scf1D0NsZta0" value="Use Const"/>
+      <text uid="Qf7x2gMsZta0" value="Constを使用する"/>
+      <text uid="pKfYX4e9Oi20" value="使用Const"/>
+      <text uid="0Kb0kWndgQ0" value="Osmanthus"/>
+      <text uid="SWb0kWndgQ0" value="Fragrans"/>
+      <text uid="qWc0kWndgQ0" value="オスマンサス"/>
+      <text uid="XiPj7KVimm60" value="桂花"/>
+      <text uid="qy9tc0NajX50" value="Lilie"/>
+      <text uid="mly55wPajX50" value="Lily"/>
+      <text uid="8CwRux1bjX50" value="ユリ"/>
+      <text uid="lVKF5n5gY250" value="百合花"/>
+      <text uid="swgB9kOBW690" value="Pfingstrosenblume"/>
+      <text uid="224QUlTBW690" value="Peony"/>
+      <text uid="4f0oKohCW690" value="牡丹の花"/>
+      <text uid="racRfztPru90" value="牡丹花"/>
+      <text uid="LtRZvqVDCT40" value="Rose"/>
+      <text uid="HggCoWXDCT40" value="Rose"/>
+      <text uid="txeoOX9ECT40" value="ローズ"/>
+      <text uid="WM4vhWLzLv60" value="玫瑰"/>
+      <text uid="SmFT0ktUWt30" value="Sonnenblume"/>
+      <text uid="q1FT0ktUWt30" value="Sunflower"/>
+      <text uid="QmDT0ktUWt30" value="ひまわり"/>
+      <text uid="hSLlzKVwXm90" value="向日葵"/>
+      <text uid="oXLgcjRK6ja0" value="苹果"/>
+      <text uid="VLWO9gUl3S70" value="チェリー"/>
+      <text uid="RQUD4oJABMa0" value="Verwenden Sie die Kennung"/>
+      <text uid="rmISPpOABMa0" value="Use Identifier"/>
+      <text uid="tzEqFscBBMa0" value="識別子を使用する"/>
+      <text uid="a8U88mX0zj80" value="使用Identifier"/>
+      <text uid="JFCeJyxdg920" value="Nicht lokalisiert"/>
+      <text uid="RI1Lcvndg920" value="Unlocalized"/>
+      <text uid="jD9FxpBcg920" value="ローカライズされていません"/>
+      <text uid="U5BoUdhI5i30" value="未本地化"/>
+      <text uid="PK043DfXmt40" value="Prüfung"/>
+      <text uid="fbrt2DfXmt40" value="test"/>
+      <text uid="dKxEZCfXmt40" value="テスト"/>
+      <text uid="uMFSi9jBLH10" value="测试"/>
+      <text uid="ENHA3bzCQ790" value="Customize Toolbar…"/>
+      <text uid="20HA3bzCQ790" value="Customize Toolbar…"/>
+      <text uid="eb7SINQMwq60" value="Customize Toolbar…"/>
+      <text uid="GgODmlObyr40" value="OCDemo"/>
+      <text uid="4tNDmlObyr40" value="OCDemo"/>
+      <text uid="8ep98l1QQha0" value="OCDemo"/>
+      <text uid="eEbSrufZoA80" value="Find"/>
+      <text uid="CQaSrufZoA80" value="Find"/>
+      <text uid="uFbHWbAbdX30" value="Find"/>
+      <text uid="enPBUcOrML30" value="Lower"/>
+      <text uid="CzOBUcOrML30" value="Lower"/>
+      <text uid="9YdfkZUaRg60" value="Lower"/>
+      <text uid="WBVwIDnblM20" value="Raise"/>
+      <text uid="kOUwIDnblM20" value="Raise"/>
+      <text uid="rgqr90GoAz30" value="Raise"/>
+      <text uid="yXXHdUe3hp50" value="Transformations"/>
+      <text uid="W9XHdUe3hp50" value="Transformations"/>
+      <text uid="9GecC9F5Hna0" value="Transformations"/>
+      <text uid="sj6HOevNog50" value="Spelling"/>
+      <text uid="Qv5HOevNog50" value="Spelling"/>
+      <text uid="mYgNOkio2r80" value="Spelling"/>
+      <text uid="cn0CcHNyAR60" value="Use Default"/>
+      <text uid="Oa1CcHNyAR60" value="Use Default"/>
+      <text uid="AwGKOxXoRe60" value="Use Default"/>
+      <text uid="O4RQeuVZBV50" value="Speech"/>
+      <text uid="qSRQeuVZBV50" value="Speech"/>
+      <text uid="MoXZpFCE2a0" value="Speech"/>
+      <text uid="6Lz1aTqY9D20" value="Tighten"/>
+      <text uid="uXy1aTqY9D20" value="Tighten"/>
+      <text uid="XmOXqg6F1Ga0" value="Tighten"/>
+      <text uid="gBr1PRz1140" value="Find"/>
+      <text uid="Sos1PRz1140" value="Find"/>
+      <text uid="6icy119qmn20" value="Find"/>
+      <text uid="6YFdJjR41D80" value="Enter Full Screen"/>
+      <text uid="ILGdJjR41D80" value="Enter Full Screen"/>
+      <text uid="iad2dVITqH60" value="Enter Full Screen"/>
+      <text uid="ORdo6tVaVz0" value="Quit OCDemo"/>
+      <text uid="c4do6tVaVz0" value="Quit OCDemo"/>
+      <text uid="BnyDZ5rral30" value="Quit OCDemo"/>
+      <text uid="wJM5npoSrT0" value="Edit"/>
+      <text uid="8xN5npoSrT0" value="Edit"/>
+      <text uid="oIF3QMf5F190" value="Edit"/>
+      <text uid="UL39jCC3oj30" value="Copy Style"/>
+      <text uid="wz49jCC3oj30" value="Copy Style"/>
+      <text uid="UwLgDrEFt720" value="Copy Style"/>
+      <text uid="khKZO0kbHl90" value="About OCDemo"/>
+      <text uid="W4LZO0kbHl90" value="About OCDemo"/>
+      <text uid="W6L0Vvicfj90" value="About OCDemo"/>
+      <text uid="CR0eYUBXLA40" value="Redo"/>
+      <text uid="040eYUBXLA40" value="Redo"/>
+      <text uid="drSa5Ani5xa0" value="Redo"/>
+      <text uid="EMtENbm9Yv10" value="Correct Spelling Automatically"/>
+      <text uid="gAuENbm9Yv10" value="Correct Spelling Automatically"/>
+      <text uid="7eCJFdMoej90" value="Correct Spelling Automatically"/>
+      <text uid="CSNfppXcjs40" value="Writing Direction"/>
+      <text uid="05NfppXcjs40" value="Writing Direction"/>
+      <text uid="CUxsueJBbf80" value="Writing Direction"/>
+      <text uid="2Czo9DIXbka0" value="Substitutions"/>
+      <text uid="qOyo9DIXbka0" value="Substitutions"/>
+      <text uid="o2SlIm2vgC20" value="Substitutions"/>
+      <text uid="AphjwEtDAS90" value="Smart Copy/Paste"/>
+      <text uid="YBgjwEtDAS90" value="Smart Copy/Paste"/>
+      <text uid="KYyx9IEilV90" value="Smart Copy/Paste"/>
+      <text uid="oUxuScE7Ld10" value="Main Menu"/>
+      <text uid="0IyuScE7Ld10" value="Main Menu"/>
+      <text uid="Taqd6ssRnc0" value="Main Menu"/>
+      <text uid="UMMIYgHdu660" value="Preferences…"/>
+      <text uid="iZLIYgHdu660" value="Preferences…"/>
+      <text uid="hf5yV9ElbX70" value="Preferences…"/>
+      <text uid="cj8rkBBbiJ10" value="\tLeft to Right"/>
+      <text uid="O69rkBBbiJ10" value="\tLeft to Right"/>
+      <text uid="wM3CWcxkto70" value="\tLeft to Right"/>
+      <text uid="iVdqWGw7U2a0" value="Save As…"/>
+      <text uid="G7dqWGw7U2a0" value="Save As…"/>
+      <text uid="nn5MysQFWj40" value="Save As…"/>
+      <text uid="gkyeZFOvLV80" value="Close"/>
+      <text uid="S7zeZFOvLV80" value="Close"/>
+      <text uid="ZDjvdp4QAa10" value="Close"/>
+      <text uid="6ZRiP30bLk30" value="Spelling and Grammar"/>
+      <text uid="ubRiP30bLk30" value="Spelling and Grammar"/>
+      <text uid="fkf3xzMkjH10" value="Spelling and Grammar"/>
+      <text uid="SuPNlamwbu30" value="Help"/>
+      <text uid="uiQNlamwbu30" value="Help"/>
+      <text uid="erVzqyTJHf0" value="Help"/>
+      <text uid="WNr2iAOCyR0" value="OCDemo Help"/>
+      <text uid="yBs2iAOCyR0" value="OCDemo Help"/>
+      <text uid="Xuib1i3jzG0" value="OCDemo Help"/>
+      <text uid="Ew0Mfk8PeH40" value="Text"/>
+      <text uid="gk1Mfk8PeH40" value="Text"/>
+      <text uid="18mTzjB4Ca40" value="Text"/>
+      <text uid="CvR9mzGvVF0" value="Substitutions"/>
+      <text uid="ejS9mzGvVF0" value="Substitutions"/>
+      <text uid="lzWtG3k50G10" value="Substitutions"/>
+      <text uid="G6NNeZ6CZj40" value="Bold"/>
+      <text uid="4jMNeZ6CZj40" value="Bold"/>
+      <text uid="el7phuPxrV10" value="Bold"/>
+      <text uid="G0wY1QXX3ya0" value="只使用identifier"/>
+      <text uid="4dvY1QXX3ya0" value="只使用identifier"/>
+      <text uid="Mmpuftl0ne50" value="只使用identifier"/>
+      <text uid="aFxTwOW5Br40" value="Format"/>
+      <text uid="MsyTwOW5Br40" value="Format"/>
+      <text uid="5hd4WpvWSw70" value="Format"/>
+      <text uid="ojgX5GsGhE10" value="Use Default"/>
+      <text uid="MvfX5GsGhE10" value="Use Default"/>
+      <text uid="q5ml2XOQNi50" value="Use Default"/>
+      <text uid="KaRFnmo1p180" value="Font"/>
+      <text uid="8nQFnmo1p180" value="Font"/>
+      <text uid="iCHBAL1WQ170" value="Font"/>
+      <text uid="KrKWW1Dmtu40" value="Writing Direction"/>
+      <text uid="8EJWW1Dmtu40" value="Writing Direction"/>
+      <text uid="Flfs81Y8JD60" value="Writing Direction"/>
+      <text uid="ymXw4BkkeT20" value="View"/>
+      <text uid="WyWw4BkkeT20" value="View"/>
+      <text uid="EY71NinX9i20" value="View"/>
+      <text uid="WMNt7ICAv650" value="Text Replacement"/>
+      <text uid="kZMt7ICAv650" value="Text Replacement"/>
+      <text uid="6mRyeurd9v0" value="Text Replacement"/>
+      <text uid="UtacL0BasF80" value="Show Spelling and Grammar"/>
+      <text uid="whbcL0BasF80" value="Show Spelling and Grammar"/>
+      <text uid="YeUcNSsdzY30" value="Show Spelling and Grammar"/>
+      <text uid="O10FEEhIKb10" value="View"/>
+      <text uid="qP0FEEhIKb10" value="View"/>
+      <text uid="JAnhpr8EDa20" value="View"/>
+      <text uid="oAQULdZHwX50" value="Subscript"/>
+      <text uid="0oRULdZHwX50" value="Subscript"/>
+      <text uid="9YjCitvGTQ70" value="Subscript"/>
+      <text uid="CWIeTkv3Fe30" value="Open…"/>
+      <text uid="09IeTkv3Fe30" value="Open…"/>
+      <text uid="M0rEMrm1QW0" value="Open…"/>
+      <text uid="OBQfx0TzK930" value="Window"/>
+      <text uid="cOPfx0TzK930" value="Window"/>
+      <text uid="ZbBXzBJVVV50" value="Window"/>
+      <text uid="8F56UC706p40" value="Justify"/>
+      <text uid="wR46UC706p40" value="Justify"/>
+      <text uid="A2ATXISmpt70" value="Justify"/>
+      <text uid="E3qPhxMWbt50" value="Use None"/>
+      <text uid="gRqPhxMWbt50" value="Use None"/>
+      <text uid="sRrbKMaSoz20" value="Use None"/>
+      <text uid="kHYM6IEKN080" value="Revert to Saved"/>
+      <text uid="ITXM6IEKN080" value="Revert to Saved"/>
+      <text uid="G4OHWHUYMu30" value="Revert to Saved"/>
+      <text uid="sZ4Xs1Ohub40" value="Show All"/>
+      <text uid="4N5Xs1Ohub40" value="Show All"/>
+      <text uid="k1wMMhhTk980" value="Show All"/>
+      <text uid="yIIFPSTKLH30" value="Bring All to Front"/>
+      <text uid="WUHFPSTKLH30" value="Bring All to Front"/>
+      <text uid="Q0EElSIH9Y20" value="Bring All to Front"/>
+      <text uid="sRQrOnLHPZ80" value="Paste Ruler"/>
+      <text uid="4FRrOnLHPZ80" value="Paste Ruler"/>
+      <text uid="S2H3bADSBj40" value="Paste Ruler"/>
+      <text uid="YrYiVlUbyX50" value="\tLeft to Right"/>
+      <text uid="mEXiVlUbyX50" value="\tLeft to Right"/>
+      <text uid="MnCwV1k0PF50" value="\tLeft to Right"/>
+      <text uid="Cc1ip93c6540" value="Copy Ruler"/>
+      <text uid="0p0ip93c6540" value="Copy Ruler"/>
+      <text uid="04nbyhKV9o40" value="Copy Ruler"/>
+      <text uid="aBCBRANK8ua0" value="Services"/>
+      <text uid="yNBBRANK8ua0" value="Services"/>
+      <text uid="17499gNYBP40" value="Services"/>
+      <text uid="SrVZEknUEz90" value="\tDefault"/>
+      <text uid="ufWZEknUEz90" value="\tDefault"/>
+      <text uid="v3xukpqUqo30" value="\tDefault"/>
+      <text uid="O3rbPIH2VK90" value="Minimize"/>
+      <text uid="qRrbPIH2VK90" value="Minimize"/>
+      <text uid="lFUaM8PfzF80" value="Minimize"/>
+      <text uid="Y7BLwBm1Ng10" value="Baseline"/>
+      <text uid="mkALwBm1Ng10" value="Baseline"/>
+      <text uid="iflT73m1eK40" value="Baseline"/>
+      <text uid="Sh3Iz3VWp910" value="Hide OCDemo"/>
+      <text uid="gu2Iz3VWp910" value="Hide OCDemo"/>
+      <text uid="x8X0ZtVed210" value="Hide OCDemo"/>
+      <text uid="uAgc5ENPvG80" value="Find Previous"/>
+      <text uid="6ohc5ENPvG80" value="Find Previous"/>
+      <text uid="OzRbKo1mDK10" value="Find Previous"/>
+      <text uid="qvyNiYQ4Sr70" value="Stop Speaking"/>
+      <text uid="2jzNiYQ4Sr70" value="Stop Speaking"/>
+      <text uid="PkgrSO59nC60" value="Stop Speaking"/>
+      <text uid="IvaMqqF7dM30" value="Bigger"/>
+      <text uid="6I9MqqF7dM30" value="Bigger"/>
+      <text uid="CIiUtG3t7B0" value="Bigger"/>
+      <text uid="ad0WxAsGso40" value="Show Fonts"/>
+      <text uid="M01WxAsGso40" value="Show Fonts"/>
+      <text uid="VLQTSQMpbW50" value="Show Fonts"/>
+      <text uid="WvW4hnrXdd40" value="Zoom"/>
+      <text uid="kIV4hnrXdd40" value="Zoom"/>
+      <text uid="3FjNREF23pa0" value="Zoom"/>
+      <text uid="UJ0cCiZW4U80" value="\tRight to Left"/>
+      <text uid="wx1cCiZW4U80" value="\tRight to Left"/>
+      <text uid="seHJkV8eG520" value="\tRight to Left"/>
+      <text uid="aRdGzcUvlD70" value="Superscript"/>
+      <text uid="y3dGzcUvlD70" value="Superscript"/>
+      <text uid="XFDiJoFqsz50" value="Superscript"/>
+      <text uid="8tEQg7bhyX20" value="Select All"/>
+      <text uid="wFDQg7bhyX20" value="Select All"/>
+      <text uid="aKuhSpW7XH70" value="Select All"/>
+      <text uid="ER0sxQbW9650" value="Jump to Selection"/>
+      <text uid="240sxQbW9650" value="Jump to Selection"/>
+      <text uid="y6hh9AtqDF50" value="Jump to Selection"/>
+      <text uid="OYhxwTJKeA20" value="Window"/>
+      <text uid="qMixwTJKeA20" value="Window"/>
+      <text uid="kwllqrx7Vua0" value="Window"/>
+      <text uid="SlvKEm9ags10" value="Capitalize"/>
+      <text uid="gyuKEm9ags10" value="Capitalize"/>
+      <text uid="HDr4OEJzGr30" value="Capitalize"/>
+      <text uid="cWr6yIx0M450" value="Center"/>
+      <text uid="A8r6yIx0M450" value="Center"/>
+      <text uid="xj2LL7hHrV40" value="Center"/>
+      <text uid="caFXJMpMI480" value="Hide Others"/>
+      <text uid="OXFXJMpMI480" value="Hide Others"/>
+      <text uid="hwAiH7kxIo30" value="Hide Others"/>
+      <text uid="aMMFvsn1fd80" value="Italic"/>
+      <text uid="MzNFvsn1fd80" value="Italic"/>
+      <text uid="QlvVA2IcJz70" value="Italic"/>
+      <text uid="m5YEBbgREG60" value="Edit"/>
+      <text uid="KhXEBbgREG60" value="Edit"/>
+      <text uid="7QIOytvWZu0" value="Edit"/>
+      <text uid="GQWmGkQ3yT50" value="Underline"/>
+      <text uid="iEXmGkQ3yT50" value="Underline"/>
+      <text uid="07Znl9wfYv40" value="Underline"/>
+      <text uid="s8ljgSFDB550" value="New"/>
+      <text uid="4WljgSFDB550" value="New"/>
+      <text uid="vVhxFjw7KJ40" value="New"/>
+      <text uid="wWPWzFV7cla0" value="Paste and Match Style"/>
+      <text uid="8KQWzFV7cla0" value="Paste and Match Style"/>
+      <text uid="3kXLSJyRl740" value="Paste and Match Style"/>
+      <text uid="YSJOKvgP6D80" value="Find…"/>
+      <text uid="m5JOKvgP6D80" value="Find…"/>
+      <text uid="PgOixRkwLZ80" value="Find…"/>
+      <text uid="WDfeFWoYWB50" value="Find and Replace…"/>
+      <text uid="yrgeFWoYWB50" value="Find and Replace…"/>
+      <text uid="jkb4jG1sHla0" value="Find and Replace…"/>
+      <text uid="OIc3TLRmj170" value="\tDefault"/>
+      <text uid="cVb3TLRmj170" value="\tDefault"/>
+      <text uid="6F4B17qF2B60" value="\tDefault"/>
+      <text uid="OLHyH96UHk10" value="Start Speaking"/>
+      <text uid="cYGyH96UHk10" value="Start Speaking"/>
+      <text uid="x1fKWtoZg970" value="Start Speaking"/>
+      <text uid="a0tGUyQRly10" value="Align Left"/>
+      <text uid="ycsGUyQRly10" value="Align Left"/>
+      <text uid="m6dUE7c3J090" value="Align Left"/>
+      <text uid="wYTgH2evmd50" value="Paragraph"/>
+      <text uid="UaTgH2evmd50" value="Paragraph"/>
+      <text uid="XEYKP52ByR80" value="Paragraph"/>
+      <text uid="G8J20nNbfo40" value="Print…"/>
+      <text uid="4lI20nNbfo40" value="Print…"/>
+      <text uid="MBjtf03Zgf70" value="Print…"/>
+      <text uid="i2rbc3KBHg30" value="Window"/>
+      <text uid="UPrbc3KBHg30" value="Window"/>
+      <text uid="0xlPTCGE3550" value="Window"/>
+      <text uid="oX8Rnfdvvy50" value="Font"/>
+      <text uid="M98Rnfdvvy50" value="Font"/>
+      <text uid="wsuqTiy9Io90" value="Font"/>
+      <text uid="A26wMtNYem50" value="Use Default"/>
+      <text uid="cQ6wMtNYem50" value="Use Default"/>
+      <text uid="1wsQVaDEmp70" value="Use Default"/>
+      <text uid="aLlAV9hdWM20" value="Show Colors"/>
+      <text uid="MymAV9hdWM20" value="Show Colors"/>
+      <text uid="X742LaRLey50" value="Show Colors"/>
+      <text uid="29yzjwKWLB30" value="File"/>
+      <text uid="qlxzjwKWLB30" value="File"/>
+      <text uid="ZLLlsszfKR80" value="File"/>
+      <text uid="mc3Ks2A7Yb20" value="Use Selection for Find"/>
+      <text uid="Ko2Ks2A7Yb20" value="Use Selection for Find"/>
+      <text uid="mvIsrbPbQfa0" value="Use Selection for Find"/>
+      <text uid="K6IbKFTUTE50" value="Transformations"/>
+      <text uid="mUIbKFTUTE50" value="Transformations"/>
+      <text uid="mIcgYq7JE560" value="Transformations"/>
+      <text uid="E6xIUOzPTI10" value="Use None"/>
+      <text uid="gUxIUOzPTI10" value="Use None"/>
+      <text uid="XCBpjooxrK20" value="Use None"/>
+      <text uid="0D6svmgSBw20" value="Selection"/>
+      <text uid="oP5svmgSBw20" value="Selection"/>
+      <text uid="4eezuQQcgi90" value="Selection"/>
+      <text uid="OC9sqyXY8a0" value="Smart Links"/>
+      <text uid="qqasqyXY8a0" value="Smart Links"/>
+      <text uid="QnU6T1XFbD20" value="Smart Links"/>
+      <text uid="Ui0ZiH8b5Q50" value="Make Lower Case"/>
+      <text uid="ivZYiH8b5Q50" value="Make Lower Case"/>
+      <text uid="puBCMYcP5P80" value="Make Lower Case"/>
+      <text uid="uA6shTIWH640" value="Text"/>
+      <text uid="6o7shTIWH640" value="Text"/>
+      <text uid="6TzM5IrsX070" value="Text"/>
+      <text uid="28gOs2tBvp30" value="File"/>
+      <text uid="qkfOs2tBvp30" value="File"/>
+      <text uid="2Xu9aeHf0480" value="File"/>
+      <text uid="ELrukoITK060" value="Undo"/>
+      <text uid="gzsukoITK060" value="Undo"/>
+      <text uid="gaRHq5zorC80" value="Undo"/>
+      <text uid="G1jsNzFrDj60" value="未本地化"/>
+      <text uid="iPjsNzFrDj60" value="未本地化"/>
+      <text uid="Fk4Pj4cFdy60" value="未本地化"/>
+      <text uid="UldQivffT610" value="Paste"/>
+      <text uid="w9eQivffT610" value="Paste"/>
+      <text uid="oncQ6nsEsm30" value="Paste"/>
+      <text uid="mIaVoF8vFt40" value="Smart Quotes"/>
+      <text uid="YvbVoF8vFt40" value="Smart Quotes"/>
+      <text uid="6LTtP5BpkI40" value="Smart Quotes"/>
+      <text uid="EJcwi1f4qw90" value="Check Document Now"/>
+      <text uid="gxdwi1f4qw90" value="Check Document Now"/>
+      <text uid="AMAlWpWXh130" value="Check Document Now"/>
+      <text uid="wAFBbcdYCu60" value="Services"/>
+      <text uid="UMEBbcdYCu60" value="Services"/>
+      <text uid="13WqSvQrK930" value="Services"/>
+      <text uid="AiEhO9nSSI40" value="Smaller"/>
+      <text uid="YuDhO9nSSI40" value="Smaller"/>
+      <text uid="h9kpVzbHZb70" value="Smaller"/>
+      <text uid="I20LGbYFKt60" value="Baseline"/>
+      <text uid="kQ0LGbYFKt60" value="Baseline"/>
+      <text uid="zHm1ps6GZW0" value="Baseline"/>
+      <text uid="wXRyhiA0Ce10" value="Kern"/>
+      <text uid="8LSyhiA0Ce10" value="Kern"/>
+      <text uid="uL7K6tPHvJ10" value="Kern"/>
+      <text uid="yy2Q9YeGsFa0" value="\tRight to Left"/>
+      <text uid="WK1Q9YeGsFa0" value="\tRight to Left"/>
+      <text uid="w7WqgGpeaM50" value="\tRight to Left"/>
+      <text uid="IBl746IsU230" value="Format"/>
+      <text uid="kpm746IsU230" value="Format"/>
+      <text uid="2RvnPICkO050" value="Format"/>
+      <text uid="ABqH8oV09Za0" value="Show Sidebar"/>
+      <text uid="cprH8oV09Za0" value="Show Sidebar"/>
+      <text uid="klFnsNXvxt70" value="Show Sidebar"/>
+      <text uid="Qu8iH2P1P510" value="Check Grammar With Spelling"/>
+      <text uid="si9iH2P1P510" value="Check Grammar With Spelling"/>
+      <text uid="9x8lp9bcyz0" value="Check Grammar With Spelling"/>
+      <text uid="EQEqOKIp0M70" value="Ligatures"/>
+      <text uid="23EqOKIp0M70" value="Ligatures"/>
+      <text uid="PfIDVv9gI980" value="Ligatures"/>
+      <text uid="89tS5OHhin20" value="Open Recent"/>
+      <text uid="KWtS5OHhin20" value="Open Recent"/>
+      <text uid="KcXN6fFGdX40" value="Open Recent"/>
+      <text uid="oO8NRsucjy60" value="Loosen"/>
+      <text uid="M08NRsucjy60" value="Loosen"/>
+      <text uid="3Q1ZL4sLDK90" value="Loosen"/>
+      <text uid="8H3wDIEcGc90" value="Delete"/>
+      <text uid="Ku4wDIEcGc90" value="Delete"/>
+      <text uid="CVcLiM163o60" value="Delete"/>
+      <text uid="k9J01Fxnyy30" value="Save…"/>
+      <text uid="WWJ01Fxnyy30" value="Save…"/>
+      <text uid="qpw2lQnRNE30" value="Save…"/>
+      <text uid="2vfxg96xcZ50" value="Find Next"/>
+      <text uid="Eigxg96xcZ50" value="Find Next"/>
+      <text uid="LNbFnVAl3550" value="Find Next"/>
+      <text uid="oIfjVX7ec070" value="Page Setup…"/>
+      <text uid="0wgjVX7ec070" value="Page Setup…"/>
+      <text uid="fpto5IeZu720" value="Page Setup…"/>
+      <text uid="6gu6Q90Jmf0" value="Check Spelling While Typing"/>
+      <text uid="I3v6Q90Jmf0" value="Check Spelling While Typing"/>
+      <text uid="wEb4e8U9uj20" value="Check Spelling While Typing"/>
+      <text uid="QhsQqDj7Zua0" value="Smart Dashes"/>
+      <text uid="s5tQqDj7Zua0" value="Smart Dashes"/>
+      <text uid="KUayBG9dff70" value="Smart Dashes"/>
+      <text uid="01YqVDa0nSa0" value="Show Toolbar"/>
+      <text uid="odXqVDa0nSa0" value="Show Toolbar"/>
+      <text uid="SE7UvqNhpC50" value="Show Toolbar"/>
+      <text uid="SWRnltdfML50" value="Data Detectors"/>
+      <text uid="uKSnltdfML50" value="Data Detectors"/>
+      <text uid="0c3lzy67Tm10" value="Data Detectors"/>
+      <text uid="AYL0widlR030" value="使用const"/>
+      <text uid="YaL0widlR030" value="使用const"/>
+      <text uid="p8OeiOLAaW70" value="使用const"/>
+      <text uid="wODOarvsoI90" value="Open Recent"/>
+      <text uid="U0DOarvsoI90" value="Open Recent"/>
+      <text uid="DO3avY5i3a10" value="Open Recent"/>
+      <text uid="C7CEKhdFHB20" value="Kern"/>
+      <text uid="eVCEKhdFHB20" value="Kern"/>
+      <text uid="lggVeqLdRj20" value="Kern"/>
+      <text uid="MSSVrJE0dk20" value="OCDemo"/>
+      <text uid="a5SVrJE0dk20" value="OCDemo"/>
+      <text uid="rAMMR3qR9I20" value="OCDemo"/>
+      <text uid="4AmVEiJh1A10" value="Cut"/>
+      <text uid="GnnVEiJh1A10" value="Cut"/>
+      <text uid="7d0L1bjXW260" value="Cut"/>
+      <text uid="SvtK8qIZfk40" value="Paste Style"/>
+      <text uid="gIsK8qIZfk40" value="Paste Style"/>
+      <text uid="r1GdfsaswY60" value="Paste Style"/>
+      <text uid="ICKOomqYLg40" value="Show Ruler"/>
+      <text uid="6PJOomqYLg40" value="Show Ruler"/>
+      <text uid="JMjDlbBpzO0" value="Show Ruler"/>
+      <text uid="iNWZnxAA0ha0" value="Clear Menu"/>
+      <text uid="GZVZnxAA0ha0" value="Clear Menu"/>
+      <text uid="jfUCf2J4OU20" value="Clear Menu"/>
+      <text uid="SphqYkIzRVa0" value="Make Upper Case"/>
+      <text uid="gCgqYkIzRVa0" value="Make Upper Case"/>
+      <text uid="90sEs0nudC40" value="Make Upper Case"/>
+      <text uid="4xqlHikxsv40" value="Ligatures"/>
+      <text uid="GkrlHikxsv40" value="Ligatures"/>
+      <text uid="eCsMaOOJjGa0" value="Ligatures"/>
+      <text uid="kP8pMAkuFf30" value="Align Right"/>
+      <text uid="I18pMAkuFf30" value="Align Right"/>
+      <text uid="ohGUV33KQp40" value="Align Right"/>
+      <text uid="QIlOhWJry720" value="Help"/>
+      <text uid="swmOhWJry720" value="Help"/>
+      <text uid="5rtsn39kVl40" value="Help"/>
+      <text uid="YfaMrBoIil90" value="Copy"/>
+      <text uid="A3bMrBoIil90" value="Copy"/>
+      <text uid="kQjd9U6yPJ0" value="Copy"/>
+      <text uid="8m2Bh7bf6C20" value="Use All"/>
+      <text uid="wy1Bh7bf6C20" value="Use All"/>
+      <text uid="PE3onojEt670" value="Use All"/>
+      <text uid="Qp1H9drQlQ60" value="Speech"/>
+      <text uid="sd2H9drQlQ60" value="Speech"/>
+      <text uid="0aAbwqZB9V60" value="Speech"/>
+      <text uid="u8tZD5CHzr60" value="Show Substitutions"/>
+      <text uid="6WtZD5CHzr60" value="Show Substitutions"/>
+      <text uid="4tbE29hgjD50" value="Show Substitutions"/>
+    </texts>
+  </cache>
+</i18n>

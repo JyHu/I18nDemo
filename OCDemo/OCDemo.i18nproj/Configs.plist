@@ -2,10 +2,53 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>filter</key>
+	<key>connect</key>
 	<dict>
-		<key>ocTemplate</key>
-		<string>LLC(#constant#,#comment#)</string>
+		<key>constGenerator</key>
+		<dict>
+			<key>id</key>
+			<string>ConstGenerator</string>
+			<key>isEnable</key>
+			<false/>
+			<key>isSystem</key>
+			<true/>
+			<key>name</key>
+			<string>常量生成</string>
+		</dict>
+		<key>customs</key>
+		<array/>
+		<key>starting</key>
+		<dict>
+			<key>id</key>
+			<string>BB58F7A4-F806-42E1-8E35-2515E059D6DD</string>
+			<key>isEnable</key>
+			<false/>
+			<key>isSystem</key>
+			<true/>
+			<key>name</key>
+			<string>启动后...</string>
+		</dict>
+		<key>translator</key>
+		<dict>
+			<key>activeType</key>
+			<string>custom</string>
+			<key>id</key>
+			<string>7795F306-2938-4089-AE75-DB3E6C556B8F</string>
+			<key>isEnable</key>
+			<false/>
+			<key>isSystem</key>
+			<true/>
+			<key>name</key>
+			<string>翻译</string>
+		</dict>
 	</dict>
+	<key>fileType</key>
+	<string>intensive</string>
+	<key>showSyncCreate</key>
+	<false/>
+	<key>syncCreate</key>
+	<false/>
+	<key>syncCreationFiles</key>
+	<array/>
 </dict>
 </plist>

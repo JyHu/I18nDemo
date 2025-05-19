@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>com.auu.i18n.buildOptions.adaptorTo</key>
-	<string>1.0</string>
+	<string>2.8.0</string>
 	<key>com.auu.i18n.buildOptions.appVersion</key>
-	<string>1.0.0</string>
+	<string>2.8.7</string>
 	<key>com.auu.i18n.buildOptions.buildTime</key>
-	<real>1618043448036.052</real>
+	<real>1747666192.953022</real>
 	<key>com.auu.i18n.buildOptions.buildVersion</key>
-	<string>21041016</string>
+	<string>24112723</string>
 	<key>com.auu.i18n.buildOptions.bundleIdentifier</key>
 	<string>com.auu.i18n</string>
 	<key>com.auu.i18n.buildOptions.user</key>
-	<string>jo</string>
+	<string>hujinyou</string>
 </dict>
 </plist>

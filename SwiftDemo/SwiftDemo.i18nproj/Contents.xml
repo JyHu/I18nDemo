@@ -1,0 +1,792 @@
+<i18n>
+  <proj cacheID="6C84F6EB-BC52-4BF2-A6B4-2315FB56CFFE">
+    <file uid="oSzIBeJviO30" location="/SwiftDemo/Localizable.strings" languages="de,en,ja,zh-Hans" sortedLangs="de,en,ja,zh-Hans" name="Localizable.strings" constPath="/SwiftDemo/Localization.swift" isHidden="0"/>
+    <file uid="QIChzBjQqE80" location="/SwiftDemo/Main.strings" languages="de,ja,zh-Hans" sortedLangs="de,ja,zh-Hans" name="Main.strings" isHidden="0"/>
+  </proj>
+  <cache>
+    <groups>
+      <group default="true" id="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <group default="true" id="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+    </groups>
+    <strings>
+      <string uid="2jjgzbeGJPa0" id="com.auu.localization.test.alertCancelActionName" const="lAlertCancelActionName" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="6khx0AJsqQ70" id="com.auu.localization.test.alertConfirmActionNameKey" const="lAlertConfirmActionNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="UUlqFPJvdKa0" id="com.auu.localization.test.alertInfoNameKey" const="lAlertInfoNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="l3p2D6FBfSa0" id="com.auu.localization.test.animals.catNameKey" const="lAnimalsCatNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="vyuV2vpx6S60" id="com.auu.localization.test.animals.cheetahNameKey" const="lAnimalsCheetahNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="BGAmw9mqVV20" id="com.auu.localization.test.animals.dogNameKey" const="lAnimalsDogNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="by56y4nwo20" id="com.auu.localization.test.animals.elephantNameKey" const="lAnimalsElephantNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="q9YBYV0CHW50" id="com.auu.localization.test.animals.sharkNameKey" const="lAnimalsSharkNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="YfrvYqMZ9L40" id="com.auu.localization.test.animals.tigerNameKey" const="lAnimalsTigerNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="h4OCzMXM5C0" id="com.auu.localization.test.constBoxNameKey" const="lConstBoxNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="zmZosQDEHn0" id="com.auu.localization.test.flowers.fragransNameKey" const="lFlowersFragransNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="XO7KJd57PE10" id="com.auu.localization.test.flowers.lilyNameKey" const="lFlowersLilyNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="JcFj6y96V030" id="com.auu.localization.test.flowers.peonyNameKey" const="lPeonyNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="GxPKnyjZ6J50" id="com.auu.localization.test.flowers.roseNameKey" const="lFlowersRoseNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="bXcjXFh5Fh10" id="com.auu.localization.test.flowers.sunflowerNameKey" const="lFlowersSunflowerNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="K5JniUshda20" id="com.auu.localization.test.fruits.appleNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="GPseIE5svf40" id="com.auu.localization.test.fruits.cherryNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="yH9UyJgMAH50" id="com.auu.localization.test.identifierBoxNameKey" const="lIdentifierBoxNameKey" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="653q5Rzoyl60" id="com.auu.localization.test.unlocalizedBoxNameKey" const="lUnlocalizedBoxName" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="mhibZegxXR70" id="com.auu.localization.testString" const="test" group="10599620-3368-491B-9B8F-47789A76240E" file="/SwiftDemo/Localizable.strings"/>
+      <string uid="4jfMhvbh5Ca0" id="1UK-8n-QPP.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="YDrMQEZbTs80" id="1Xt-HY-uBw.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="Unq2RRnYxl20" id="1b7-l0-nxx.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="Xap6y39hVH20" id="1tx-W0-xDw.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="tHdZ6nM5aX60" id="2h7-ER-AoG.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="PlScyg1xoB0" id="2oI-Rn-ZJC.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="cg6ZSEl9PN80" id="3IN-sU-3Bg.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="ugX9XL7lgz50" id="3Om-Ey-2VK.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="YtJMZD4aQO20" id="3rS-ZA-NoH.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="BknRw6xwQFa0" id="46P-cB-AYj.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="gkrLsKlPs20" id="4EN-yA-p0u.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="MI1qpD3AZk60" id="4J7-dP-txa.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="dTAdF5kwpU0" id="4sb-4s-VLi.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="KWkJasoleI10" id="5QF-Oa-p0T.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="E7OQxst58Ya0" id="5Vv-lz-BsD.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="WJCOTA8bZK30" id="5kV-Vb-QxS.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="9iNjLcDc7d10" id="6dh-zS-Vam.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="Ryfc9UL1lr20" id="78Y-hA-62v.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="azuFyyOKtr60" id="8mr-sm-Yjd.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="qQtn6pK36F20" id="9ic-FL-obx.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="ksvyoYRI6y50" id="9yt-4B-nSM.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="7qOu8sXdng20" id="AYu-sK-qS6.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="lONAYYhJxj10" id="BOF-NM-1cW.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="oxkJb2ONtb80" id="BgM-ve-c93.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="tEMBjfknkr50" id="Bw7-FT-i3A.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="tERWhQKZwj60" id="DVo-aG-piG.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="n1xuirtXuS40" id="Dv1-io-Yv7.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="UrunDba5LC20" id="F2S-fz-NVQ.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="DEWwTKSTaT90" id="FKE-Sm-Kum.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="VGwTaiYmpW70" id="Fal-I4-PZk.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="1cKCvGFMrh10" id="FeM-D8-WVr.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="Sq6q7u4Jfy0" id="GB9-OM-e27.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="3yGYTOfD6880" id="GEO-Iw-cKr.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="gFejfO2Zvm50" id="GUa-eO-cwY.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="I0IObPiGyTa0" id="Gi5-1S-RQB.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="j6CFmtd7Cm70" id="H1b-Si-o9J.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="ctV6WfddNS60" id="H8h-7b-M4v.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="gUhuYWbAib30" id="HFQ-gK-NFA.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="0tpZ6GtGJ360" id="HFo-cy-zxI.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="ByV23blEXb0" id="HyV-fh-RgO.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="DmBU1xi9Ba30" id="I0S-gh-46l.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="Qb5rn8cK9Q60" id="IAo-SY-fd9.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="1pSVY8Mz0aa0" id="IQv-IB-iLA.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="MLnjjrZBxz60" id="J5U-5w-g23.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="SDmppDwRF870" id="J7y-lM-qPV.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="YOQ50nZCP550" id="KaW-ft-85H.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="owLCsK7FvE0" id="Kd2-mp-pUS.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="8TdNXbTc0B80" id="LE2-aR-0XJ.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="s8qBZHz6l6a0" id="LVM-kO-fVI.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="C7XNwGyiwq40" id="Lbh-J2-qVU.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="SmDFZiogZS0" id="MkV-Pr-PK5.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="tR5WDjrAEf10" id="NMo-om-nkz.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="n9CJNOTb6X10" id="Nop-cj-93Q.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="b81ulLEu3k0" id="OY7-WF-poV.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="2owkc3S07z90" id="OaQ-X3-Vso.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="HF4t4uiskE70" id="Olw-nP-bQN.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="GO8Wy1J5R550" id="OwM-mh-QMV.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="FaKdKJBH3x10" id="Oyz-dy-DGm.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="GTaf6eHsqpa0" id="Ptp-SP-VEL.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="9bxbOoFiD530" id="Q5e-8K-NDq.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="tTtWm6qhBz80" id="R4o-n2-Eq4.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="QlgQKdagNT20" id="RB4-Sm-HuC.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="dQ24Myokrn0" id="Rqc-34-cIF.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="ChrYi4SVsk80" id="Ruw-6m-B2m.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="iBspMVy94W20" id="S0p-oC-mLd.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="u6ilyJfOENa0" id="Td7-aD-5lo.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="hvqUk9pInE20" id="UEZ-Bs-lqG.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="RCFaP2mjr790" id="VIY-Ag-zcb.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="B7kBRcHNmy20" id="Vdr-fp-XzO.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="UadJQbucTPa0" id="Vjx-xi-njq.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="LE0SexKbJW70" id="W48-6f-4Dl.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="2v0b2lxO6Q0" id="WRG-CD-K1S.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="7shLfPk3XW50" id="Was-JA-tGl.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="nKSmC8OLNA70" id="WeT-3V-zwk.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="VLYLGaF8Gx90" id="Xz5-n4-O0W.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="JVMQVQwfZb0" id="YEy-JH-Tfz.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="EZP4ka63hq20" id="YGs-j5-SAR.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="ZVzw7d1ood30" id="Ynk-f8-cLZ.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="c879G81c7R80" id="ZM1-6Q-yy1.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="raH0Shml1qa0" id="ZvO-Gk-QUH.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="Y4Z03DUycRa0" id="aTl-1u-JFS.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="ephnEBFLmR80" id="aUF-d1-5bR.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="szaakhFrIJ70" id="aXa-aM-Jaq.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="fzj9IcPego0" id="agt-UL-0e3.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="B855pOiJtt70" id="bgn-CT-cEk.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="B0J51dBrE7a0" id="bib-Uj-vzu.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="AP6uETVlps30" id="buJ-ug-pKt.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="erdkrHiTaM40" id="c8a-y6-VQd.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="pAMTGLwgHx20" id="cDB-IK-hbR.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="yyt7CRu43I10" id="cqv-fj-IhA.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="80R4Lu3C3s30" id="cwL-P1-jid.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="hvvypl5PF840" id="d9M-CD-aMd.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="UXbPRqF4Ma80" id="d9c-me-L2H.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="iMYXw3XuDo90" id="dMs-cI-mzQ.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="YHocRxkVGh90" id="dRJ-4n-Yzg.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="GV69X4OgKU90" id="gVA-U4-sdL.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="2Yg6k54SYc30" id="hQb-2v-fYv.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="YRsHpM8eyb90" id="hz2-CU-CR7.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="fLjrgSXvnF50" id="hz9-B4-Xy5.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="hkjYFqFFmO70" id="i1d-Er-qST.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="Hz3OiGdaWl40" id="ijk-EB-dga.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="WyoSATB79H60" id="jBQ-r6-VK2.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="u9QhvPnZyD80" id="jFq-tB-4Kx.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="mKwcUWrA2Y40" id="jxT-CU-nIS.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="yDoERCybc470" id="kIP-vf-haE.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="3TeKAYAAMha0" id="mK6-2p-4JG.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="r3RRxLxIfT20" id="o6e-r0-MWq.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="a3MUrZ10o9a0" id="oas-Oc-fiZ.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="bcznSLajEZ40" id="ogc-rX-tC1.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="OIPXrsMNkSa0" id="pa3-QI-u2k.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="sjT5XWbq3D80" id="pxx-59-PXV.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="nDnFHL8K1y20" id="q09-fT-Sye.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="p6ZAJmgS0c20" id="qIS-W8-SiK.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="sjoZg2VrLG20" id="rbD-Rh-wIN.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="A0nrnqG9a030" id="rgM-f4-ycn.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="QOEox4bc7b0" id="snW-S8-Cw5.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="6AQebfXUpH30" id="tRr-pd-1PS.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="zSNnIfCFeb50" id="tXI-mr-wws.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="pZutNRDcII30" id="tlD-Oa-oAM.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="BNGUMiLobD60" id="uQy-DD-JDr.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="54csgzYEyV20" id="uRl-iY-unG.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="DaJCCSRven60" id="vKC-jM-MkH.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="T66m3DGtWx20" id="vLm-3I-IUL.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="BcPGb5Vli870" id="vNY-rz-j42.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="9gTCO4HT2h90" id="vmV-6d-7jI.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="mNjy9JxmnD10" id="w0m-vy-SC9.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="6hAddeiJeB40" id="wb2-vD-lq4.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="HfXtjTg0RN20" id="wpr-3q-Mcd.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="MTo0VDIadn70" id="x3v-GG-iWU.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="r6S7yMlUfD30" id="xQD-1f-W4t.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="41aEenxADM30" id="xrE-MZ-jX0.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+      <string uid="Mysm90F1PT80" id="z6F-FW-3nz.title" group="06583B2C-B597-45EB-B741-19AF4E3EE533" file="/SwiftDemo/Main.strings"/>
+    </strings>
+    <langs>
+      <lang uid="2jjgzbeGJPa0" de="hm9VRH8yNF80" en="9jKooLiyNF80" ja="HoCu3R4zNF80" zh-Hans="YT3irPBBGH70"/>
+      <lang uid="6khx0AJsqQ70" de="YxhZwoC7rq60" en="AaiZwoC7rq60" ja="e9lZwoC7rq60" zh-Hans="dJMr2Qr24W30"/>
+      <lang uid="UUlqFPJvdKa0" de="B0iqIJ6vBB10" en="tF5vc37vBB10" ja="1fltny8vBB10" zh-Hans="Kk0rAAmEBO40"/>
+      <lang uid="l3p2D6FBfSa0" de="uAMoDVx64l40" en="61ZHzbz64l40" ja="KjYAhcF64l40" zh-Hans="5HqDXql4EZ20"/>
+      <lang uid="vyuV2vpx6S60" de="ihYF5FYkrBa0" en="SpYF5FYkrBa0" ja="U4ZF5FYkrBa0" zh-Hans="LCzxYFCCTJ50"/>
+      <lang uid="BGAmw9mqVV20" de="8MqHQj8KLo30" en="wleoU37KLo30" ja="S2fvc31KLo30" zh-Hans="vlXnqo1csc60"/>
+      <lang uid="by56y4nwo20" de="wsXAwYPbgu20" en="EfXAwYPbgu20" ja="6gWAwYPbgu20" zh-Hans="lth3YdKZZW20"/>
+      <lang uid="q9YBYV0CHW50" de="fFtVm2wRS480" en="Paha84BRS480" ja="RndIX6ZRS480" zh-Hans="i8saJS93Ad30"/>
+      <lang uid="YfrvYqMZ9L40" de="NLoZuzNPa370" en="nhcegBSPa370" ja="pu8M5EgQa370" zh-Hans="QMzQecVVot0"/>
+      <lang uid="h4OCzMXM5C0" de="wUMryPbd3060" en="W2opOFbd3060" ja="U5gVdVad3060" zh-Hans="JJMKGUPgam70"/>
+      <lang uid="zmZosQDEHn0" de="KB61a4FJZi60" en="So61a4FJZi60" ja="kp51a4FJZi60" zh-Hans="zqyiIDKHph30"/>
+      <lang uid="XO7KJd57PE10" de="ya3ss0sDdX10" en="CnEPzupDdX10" ja="Q6G3atdDdX10" zh-Hans="lkLWQv8Hkw90"/>
+      <lang uid="JcFj6y96V030" de="GXL7vFfO1y0" en="6sYSJDaO1y0" ja="4f2lUAMN1y0" zh-Hans="rCbAJ5RjQe60"/>
+      <lang uid="GxPKnyjZ6J50" de="dflV8AjaU030" en="hsWig4haU030" ja="vbYwQ25aU030" zh-Hans="EvG2SbAKBT0"/>
+      <lang uid="bXcjXFh5Fh10" de="IV5E8OSpqV30" en="ah6E8OSpqV30" ja="KV7E8OSpqV30" zh-Hans="XAqK2EqEsqa0"/>
+      <lang uid="K5JniUshda20" zh-Hans="OE0J2bvqJT20"/>
+      <lang uid="GPseIE5svf40" ja="dI5UuJ94VM10"/>
+      <lang uid="yH9UyJgMAH50" de="JmSUpoFaD710" en="jSF9bqKaD710" ja="l5CH0t8bD710" zh-Hans="6SmKrb0Lvpa0"/>
+      <lang uid="653q5Rzoyl60" de="r09G7eQJnb50" en="z3ycBaGJnb50" ja="1YF6W4UInb50" zh-Hans="aMarJpZWn740"/>
+      <lang uid="mhibZegxXR70" de="1zCQ6C3xzJ20" en="rZ2g6C3xzJ20" ja="py9r3C3xzJ20" zh-Hans="6KhAt3HqMa60"/>
+      <lang uid="4jfMhvbh5Ca0" de="6mm4RYxsEx40" ja="uyl4RYxsEx40" zh-Hans="mtigsvxFbK50"/>
+      <lang uid="YDrMQEZbTs80" de="SaxSPQcYD80" ja="uYxSPQcYD80" zh-Hans="gwAxR2IIvB90"/>
+      <lang uid="Unq2RRnYxl20" de="GcQlfiePc040" ja="4pPlfiePc040" zh-Hans="CXm5GTg4Sg30"/>
+      <lang uid="Xap6y39hVH20" de="k4wUhZcIpO0" ja="WRwUhZcIpO0" zh-Hans="1G2RAheicX60"/>
+      <lang uid="tHdZ6nM5aX60" de="CPpZtyDYQN10" ja="eDqZtyDYQN10" zh-Hans="zyBPSHmhfT20"/>
+      <lang uid="PlScyg1xoB0" de="0wCb1IdT4P0" ja="oIBb1IdT4P0" zh-Hans="hYpAlRlYlH90"/>
+      <lang uid="cg6ZSEl9PN80" de="URKaC2uDcG0" ja="i4KaC2uDcG0" zh-Hans="eG5p5DBvn790"/>
+      <lang uid="ugX9XL7lgz50" de="wJV1H7LyTwa0" ja="UVU1H7LyTwa0" zh-Hans="IOR8yfEhwy50"/>
+      <lang uid="YtJMZD4aQO20" de="mwcnrGW9Ova0" ja="YjdnrGW9Ova0" zh-Hans="6jRBQCGsiw0"/>
+      <lang uid="BknRw6xwQFa0" de="sGLu2jAb2X10" ja="4uMu2jAb2X10" zh-Hans="5FZlaYMxGZ90"/>
+      <lang uid="gkrLsKlPs20" de="O2Nx14BbdE40" ja="qQNx14BbdE40" zh-Hans="eAnWKIPi1H10"/>
+      <lang uid="MI1qpD3AZk60" de="C8gqavH2tL80" ja="0lfqavH2tL80" zh-Hans="qsoqWCpM5160"/>
+      <lang uid="dTAdF5kwpU0" de="Kz786J5Zg040" ja="mn886J5Zg040" zh-Hans="JFJ1JN7kPE20"/>
+      <lang uid="KWkJasoleI10" de="4b8CzBp2Et50" ja="GY8CzBp2Et50" zh-Hans="w0RrzuWXjl80"/>
+      <lang uid="E7OQxst58Ya0" de="sdpFvODdAT70" ja="41qFvODdAT70" zh-Hans="MeASTJXMON20"/>
+      <lang uid="WJCOTA8bZK30" de="oPbE4OeWM280" ja="M1bE4OeWM280" zh-Hans="OOzCbOBjAZ90"/>
+      <lang uid="9iNjLcDc7d10" de="4qFHLIANz0" ja="sCEHLIANz0" zh-Hans="lJ3zOh4bKQ90"/>
+      <lang uid="Ryfc9UL1lr20" de="cePa0onja660" ja="O1Qa0onja660" zh-Hans="fwN7pVshTC80"/>
+      <lang uid="azuFyyOKtr60" de="WyxgNM3XS70" ja="ymygNM3XS70" zh-Hans="KcJQdWpuQy70"/>
+      <lang uid="qQtn6pK36F20" de="uaeSWqHNZJ50" ja="SmdSWqHNZJ50" zh-Hans="gKGXYElCBi30"/>
+      <lang uid="ksvyoYRI6y50" de="2YVMjsstoi50" ja="qaVMjsstoi50" zh-Hans="SgKVSplb0f90"/>
+      <lang uid="7qOu8sXdng20" de="WlT05pFhXN50" ja="y9U05pFhXN50" zh-Hans="ZwooaQQfXt0"/>
+      <lang uid="lONAYYhJxj10" de="mlrcM4G3iw10" ja="KxqcM4G3iw10" zh-Hans="9XT9csXswD80"/>
+      <lang uid="oxkJb2ONtb80" de="KKtXwNCluj60" ja="myuXwNCluj60" zh-Hans="E4f0GUdd8I60"/>
+      <lang uid="tEMBjfknkr50" de="KtSTJuvXHs50" ja="8GRTJuvXHs50" zh-Hans="f5UnPK9Nh050"/>
+      <lang uid="tERWhQKZwj60" de="sMnpU8KBIs80" ja="QYmpU8KBIs80" zh-Hans="Rl87uHnXVQ10"/>
+      <lang uid="n1xuirtXuS40" de="sstdn81Zqf10" ja="4gudn81Zqf10" zh-Hans="724FNR5sEn20"/>
+      <lang uid="UrunDba5LC20" de="qWakymnGn480" ja="2KbkymnGn480" zh-Hans="69KbHQcR2W0"/>
+      <lang uid="DEWwTKSTaT90" de="ufNyuMPMKr50" ja="63OyuMPMKr50" zh-Hans="5NtzKZJbe0"/>
+      <lang uid="VGwTaiYmpW70" de="cYlisw9Zqh90" ja="OLmisw9Zqh90" zh-Hans="9qxhj1iXgu30"/>
+      <lang uid="1cKCvGFMrh10" de="aXcGyLHF7g50" ja="MKdGyLHF7g50" zh-Hans="tR7SpL0YEZ0"/>
+      <lang uid="Sq6q7u4Jfy0" de="SkyIXcUxcg0" ja="u8zIXcUxcg0" zh-Hans="mDiN0cwq6f10"/>
+      <lang uid="3yGYTOfD6880" de="I6TpJ0YfN190" ja="kUTpJ0YfN190" zh-Hans="dzosF7cPxQ60"/>
+      <lang uid="gFejfO2Zvm50" de="a85z6wytUV20" ja="MV5z6wytUV20" zh-Hans="iNaXif8Y8Z50"/>
+      <lang uid="I0IObPiGyTa0" de="cJv9banRcr30" ja="AVu9banRcr30" zh-Hans="qUSZjtIOvl60"/>
+      <lang uid="j6CFmtd7Cm70" de="OZAzfaoNI50" ja="qNBzfaoNI50" zh-Hans="x344pjhg4k70"/>
+      <lang uid="ctV6WfddNS60" de="05oZ7BGPXG10" ja="CSoZ7BGPXG10" zh-Hans="Mgjpw04QOB10"/>
+      <lang uid="gUhuYWbAib30" de="olsXUvBqjw0" ja="MxrXUvBqjw0" zh-Hans="Y3GavMKkub10"/>
+      <lang uid="0tpZ6GtGJ360" de="OCLr8OXW1J80" ja="cPKr8OXW1J80" zh-Hans="6x5BwA96ei30"/>
+      <lang uid="ByV23blEXb0" de="mtlbRQiSWL50" ja="YgmbRQiSWL50" zh-Hans="RSyF89Pwiu10"/>
+      <lang uid="DmBU1xi9Ba30" de="W1crYp0SIxa0" ja="yPcrYp0SIxa0" zh-Hans="hgv02bczya70"/>
+      <lang uid="Qb5rn8cK9Q60" de="WuChjRv6xl10" ja="yiDhjRv6xl10" zh-Hans="EIfg3KF8bD10"/>
+      <lang uid="1pSVY8Mz0aa0" de="KPugFb8Arq10" ja="mDvgFb8Arq10" zh-Hans="RTpzQT23hC60"/>
+      <lang uid="MLnjjrZBxz60" de="qMfqizT96b0" ja="2AgqizT96b0" zh-Hans="IkLhHqzf4N60"/>
+      <lang uid="SDmppDwRF870" de="cvLluJN6o3a0" ja="OiMluJN6o3a0" zh-Hans="A9DztuRK3T10"/>
+      <lang uid="YOQ50nZCP550" de="MfDgUvDABq30" ja="asCgUvDABq30" zh-Hans="yMCjd0e68b40"/>
+      <lang uid="owLCsK7FvE0" de="0rqtFdPrGL80" ja="CertFdPrGL80" zh-Hans="sjHawZXLZs70"/>
+      <lang uid="8TdNXbTc0B80" de="0JCQmj7pqS0" ja="CwDQmj7pqS0" zh-Hans="YiP25ApAOh20"/>
+      <lang uid="s8qBZHz6l6a0" de="gf5c5rNpEo80" ja="Er4c5rNpEo80" zh-Hans="KKvFrSWZWZ40"/>
+      <lang uid="C7XNwGyiwq40" de="q0DMI9T1mn10" ja="OcCMI9T1mn10" zh-Hans="UFNUEJ0TtZ40"/>
+      <lang uid="SmDFZiogZS0" de="WekeN2YX5v0" ja="y2leN2YX5v0" zh-Hans="8myzhZqOOH30"/>
+      <lang uid="tR5WDjrAEf10" de="C9h5FoMAWT50" ja="0mg5FoMAWT50" zh-Hans="TOSKpy66Xv50"/>
+      <lang uid="n9CJNOTb6X10" de="QE0EeubdPO70" ja="eRZDeubdPO70" zh-Hans="nLl6BHJ1M440"/>
+      <lang uid="b81ulLEu3k0" de="U2vs46R4zD70" ja="ifus46R4zD70" zh-Hans="dnJM2r8nUl90"/>
+      <lang uid="2owkc3S07z90" de="AjKKFAE8pj30" ja="c7LKFAE8pj30" zh-Hans="aX9volF8zq50"/>
+      <lang uid="HF4t4uiskE70" de="G9iOC86dMq30" ja="iXiOC86dMq30" zh-Hans="Fq8pIbC7Sl0"/>
+      <lang uid="GO8Wy1J5R550" de="ewFrOaLhYH80" ja="CIErOaLhYH80" zh-Hans="GhGN0HktYq20"/>
+      <lang uid="FaKdKJBH3x10" de="iBnQAQH2CW90" ja="GNmQAQH2CW90" zh-Hans="XCrPBwM12W50"/>
+      <lang uid="GTaf6eHsqpa0" de="QVaKLLl2ZN0" ja="sJbKLLl2ZN0" zh-Hans="uq7wKYmAsh10"/>
+      <lang uid="9bxbOoFiD530" de="IElsKMtQEY80" ja="ksmsKMtQEY80" zh-Hans="NtFv996xwC60"/>
+      <lang uid="tTtWm6qhBz80" de="CVorVOzcYm0" ja="eJprVOzcYm0" zh-Hans="lb9LX3B7iTa0"/>
+      <lang uid="QlgQKdagNT20" de="OmVrhwzapu80" ja="czUrhwzapu80" zh-Hans="AwS74DP6lp10"/>
+      <lang uid="dQ24Myokrn0" de="CpS9n0Tl9330" ja="0CR9n0Tl9330" zh-Hans="PnsUZGYxNf60"/>
+      <lang uid="ChrYi4SVsk80" de="qYGFV4QSDC10" ja="2MHFV4QSDC10" zh-Hans="i2GFB7D0C170"/>
+      <lang uid="iBspMVy94W20" de="6qFVkEaMXv0" ja="uCEVkEaMXv0" zh-Hans="qO5TpSMxYl60"/>
+      <lang uid="u6ilyJfOENa0" de="mqD3J5LUqa70" ja="YdE3J5LUqa70" zh-Hans="sOwJ99e0AO90"/>
+      <lang uid="hvqUk9pInE20" de="G5QLxPRZV730" ja="iTQLxPRZV730" zh-Hans="PVCsxmqslL20"/>
+      <lang uid="RCFaP2mjr790" de="Eu6AlwwQzu0" ja="2H5AlwwQzu0" zh-Hans="FBd9vPXz6f40"/>
+      <lang uid="B7kBRcHNmy20" de="wWgG929lLj90" ja="U8gG929lLj90" zh-Hans="9epUXpDE3540"/>
+      <lang uid="UadJQbucTPa0" de="yk9Ynmb6fb90" ja="Ww8Ynmb6fb90" zh-Hans="YDGjkKo5oT60"/>
+      <lang uid="LE0SexKbJW70" de="ODC8pZeHs620" ja="cQB8pZeHs620" zh-Hans="LR5NHONalb0"/>
+      <lang uid="2v0b2lxO6Q0" de="eiiTSwRdKta0" ja="Q5jTSwRdKta0" zh-Hans="SONZBrPmjc50"/>
+      <lang uid="7shLfPk3XW50" de="0AGPs4HNNF90" ja="CnHPs4HNNF90" zh-Hans="DdtVo1d0p340"/>
+      <lang uid="nKSmC8OLNA70" de="ca6Hj9DZh370" ja="Am5Hj9DZh370" zh-Hans="V1Mn92SYGN40"/>
+      <lang uid="VLYLGaF8Gx90" de="qroiyjfFU240" ja="ODniyjfFU240" zh-Hans="XyZGgz1pqj80"/>
+      <lang uid="JVMQVQwfZb0" de="u5BKR8q89ca0" ja="6TBKR8q89ca0" zh-Hans="5whuw2fIDWa0"/>
+      <lang uid="EZP4ka63hq20" de="ghRwGzQc7r20" ja="EtQwGzQc7r20" zh-Hans="YmTcipJMnh70"/>
+      <lang uid="ZVzw7d1ood30" de="KFDXu2Vfuf30" ja="mtEXu2Vfuf30" zh-Hans="pJ3mdMH6CP70"/>
+      <lang uid="c879G81c7R80" de="orSPhDaiQ130" ja="0fTPhDaiQ130" zh-Hans="uooioPSVnk80"/>
+      <lang uid="raH0Shml1qa0" de="YwyKuQclaD0" ja="mJxKuQclaD0" zh-Hans="5X99zNItdb80"/>
+      <lang uid="Y4Z03DUycRa0" de="SiCtcPdYWb0" ja="u6DtcPdYWb0" zh-Hans="Ej85wim6CV70"/>
+      <lang uid="ephnEBFLmR80" de="QtMHofLLTQ70" ja="shNHofLLTQ70" zh-Hans="SearaVZLoL50"/>
+      <lang uid="szaakhFrIJ70" de="QvNkb3cljY0" ja="eIMkb3cljY0" zh-Hans="EKFOC0f2nI80"/>
+      <lang uid="fzj9IcPego0" de="8ur2ZFO8rW90" ja="Khs2ZFO8rW90" zh-Hans="9ODeFSjx1J60"/>
+      <lang uid="B855pOiJtt70" de="IcH68min8n70" ja="k0I68min8n70" zh-Hans="5qfquSxETR40"/>
+      <lang uid="B0J51dBrE7a0" de="wiNWSFgdqY0" ja="86OWSFgdqY0" zh-Hans="RtAXIKSm5y90"/>
+      <lang uid="AP6uETVlps30" de="cfiMJ9r2eo20" ja="O2jMJ9r2eo20" zh-Hans="edx4It8jbWa0"/>
+      <lang uid="erdkrHiTaM40" de="iy3IWRU46fa0" ja="Ul4IWRU46fa0" zh-Hans="eq1SeJqQZL60"/>
+      <lang uid="pAMTGLwgHx20" de="cySe71BZ5j60" ja="OlTe71BZ5j60" zh-Hans="Pkq1AGHEMq30"/>
+      <lang uid="yyt7CRu43I10" de="yOe4HPKhA320" ja="aCf4HPKhA320" zh-Hans="cwpXdyx5VB80"/>
+      <lang uid="80R4Lu3C3s30" de="m4vYCKY8lK40" ja="YRvYCKY8lK40" zh-Hans="I5JI9kgNwj30"/>
+      <lang uid="hvvypl5PF840" de="mREs6v71Tf10" ja="K3Es6v71Tf10" zh-Hans="hcqe3hwWqv90"/>
+      <lang uid="UXbPRqF4Ma80" de="22sYt5K6UG80" ja="EPsYt5K6UG80" zh-Hans="ebLaPp8lCk60"/>
+      <lang uid="iMYXw3XuDo90" de="wj5IJ9yyGa10" ja="876IJ9yyGa10" zh-Hans="UEjLqw0nlK80"/>
+      <lang uid="YHocRxkVGh90" de="cdN0xAJ3XAa0" ja="O0O0xAJ3XAa0" zh-Hans="os26aNfh6W70"/>
+      <lang uid="GV69X4OgKU90" de="sNymvHgp5H50" ja="4BzmvHgp5H50" zh-Hans="g51snFLLN240"/>
+      <lang uid="2Yg6k54SYc30" de="U9wrBR9FR390" ja="wXwrBR9FR390" zh-Hans="YsI56oUwFo50"/>
+      <lang uid="YRsHpM8eyb90" de="4nJ7BNj34S70" ja="szI7BNj34S70" zh-Hans="supXcIf5DH30"/>
+      <lang uid="fLjrgSXvnF50" de="Y8k5ZZbOqU10" ja="mlj5ZZbOqU10" zh-Hans="9l7PBdxkpt20"/>
+      <lang uid="hkjYFqFFmO70" de="2RiLBXlIG80" ja="q3iLBXlIG80" zh-Hans="9R81cSuOkS70"/>
+      <lang uid="Hz3OiGdaWl40" de="04WScDArJUa0" ja="ogVScDArJUa0" zh-Hans="HZxp8aNyEg0"/>
+      <lang uid="WyoSATB79H60" de="4pd5uuBaOO50" ja="Gce5uuBaOO50" zh-Hans="mtWlnL8PQp20"/>
+      <lang uid="u9QhvPnZyD80" de="07HjXLdwg560" ja="ojGjXLdwg560" zh-Hans="Ep7PZn67P550"/>
+      <lang uid="mKwcUWrA2Y40" de="g3HDgiJC6D70" ja="SQHDgiJC6D70" zh-Hans="UykZ51Wr9H50"/>
+      <lang uid="yDoERCybc470" de="8vvWKqD6lp60" ja="wHuWKqD6lp60" zh-Hans="c3uZI5hDS980"/>
+      <lang uid="3TeKAYAAMha0" de="oWtOTeQb1G50" ja="0KuOTeQb1G50" zh-Hans="1fXWFrujTf10"/>
+      <lang uid="r3RRxLxIfT20" de="6pjUByHfOb30" ja="uBiUByHfOb30" zh-Hans="XxT1FdQ8nt70"/>
+      <lang uid="a3MUrZ10o9a0" de="GAOoi0JruX60" ja="ioPoi0JruX60" zh-Hans="Su8cQWlzSg40"/>
+      <lang uid="bcznSLajEZ40" de="QmNgFgt27Y10" ja="ezMgFgt27Y10" zh-Hans="b8dnvM8Ei490"/>
+      <lang uid="OIPXrsMNkSa0" de="ApS7g6UUNb80" ja="YBR7g6UUNb80" zh-Hans="Kdo92uIYHH50"/>
+      <lang uid="sjT5XWbq3D80" de="SA4xdRyxK880" ja="uo5xdRyxK880" zh-Hans="yHHq4y4KsY20"/>
+      <lang uid="nDnFHL8K1y20" de="AWA3tl7Hoza0" ja="cKB3tl7Hoza0" zh-Hans="T5n37DheIo40"/>
+      <lang uid="p6ZAJmgS0c20" de="koGkYQqThoa0" ja="IAFkYQqThoa0" zh-Hans="77i0m0y6QN20"/>
+      <lang uid="sjoZg2VrLG20" de="EHPC2m1TyP40" ja="gvQC2m1TyP40" zh-Hans="EWmsXPA29D10"/>
+      <lang uid="A0nrnqG9a030" de="SOtNsbf0vT60" ja="g1tNsbf0vT60" zh-Hans="ScmWkoQ5Uy60"/>
+      <lang uid="QOEox4bc7b0" de="szCUIr9Qai60" ja="QLBUIr9Qai60" zh-Hans="KmWvMI6pKi60"/>
+      <lang uid="6AQebfXUpH30" de="qodUxFepYla0" ja="2ceUxFepYla0" zh-Hans="8ueJigNZxG0"/>
+      <lang uid="zSNnIfCFeb50" de="YmiiYeuic850" ja="mzhiYeuic850" zh-Hans="vwSLLgppoQ10"/>
+      <lang uid="pZutNRDcII30" de="azXaXtePTb70" ja="MmYaXtePTb70" zh-Hans="tyrjY7s6wD10"/>
+      <lang uid="BNGUMiLobD60" de="MysAKsm9Zf20" ja="omtAKsm9Zf20" zh-Hans="zSXaBL6KO120"/>
+      <lang uid="54csgzYEyV20" de="C1IrRuKrda60" ja="ePIrRuKrda60" zh-Hans="ZUOmitC4iJ60"/>
+      <lang uid="DaJCCSRven60" de="GVRL3MiaWf0" ja="iJSL3MiaWf0" zh-Hans="jJuPvKtzRE70"/>
+      <lang uid="T66m3DGtWx20" de="QOAHNPAbqj0" ja="sCBHNPAbqj0" zh-Hans="R4v15Thie80"/>
+      <lang uid="BcPGb5Vli870" de="KlBtblzqOG50" ja="8yAtblzqOG50" zh-Hans="rx51ZJpXse20"/>
+      <lang uid="9gTCO4HT2h90" de="kYVTL8HpFl60" ja="IaVTL8HpFl60" zh-Hans="hiD2cI3nSV30"/>
+      <lang uid="mNjy9JxmnD10" de="CYLRTulHE590" ja="eMMRTulHE590" zh-Hans="ae0MEUrq1Ca0"/>
+      <lang uid="6hAddeiJeB40" de="eCc7qBGFwk10" ja="Qpd7qBGFwk10" zh-Hans="gZuwcmmRb650"/>
+      <lang uid="HfXtjTg0RN20" de="oaHku8LBKH60" ja="0YHku8LBKH60" zh-Hans="X8i4Elsrg250"/>
+      <lang uid="MTo0VDIadn70" de="KQLRrdapb380" ja="83LRrdapb380" zh-Hans="s8vBSBNqu30"/>
+      <lang uid="r6S7yMlUfD30" de="q5jVU4QU5Y10" ja="2TjVU4QU5Y10" zh-Hans="XWeM660x8q60"/>
+      <lang uid="41aEenxADM30" de="SGUWJB7h8ya0" ja="gTTWJB7h8ya0" zh-Hans="8sLzf8GuOe60"/>
+      <lang uid="Mysm90F1PT80" de="eYsEfJWpUWa0" ja="CasEfJWpUWa0" zh-Hans="Wa0gjrAnEj60"/>
+    </langs>
+    <texts>
+      <text uid="hm9VRH8yNF80" value="stornieren"/>
+      <text uid="9jKooLiyNF80" value="Cancel"/>
+      <text uid="HoCu3R4zNF80" value="キャンセル"/>
+      <text uid="YT3irPBBGH70" value="取消"/>
+      <text uid="YxhZwoC7rq60" value="bestimmen"/>
+      <text uid="AaiZwoC7rq60" value="Confirm"/>
+      <text uid="e9lZwoC7rq60" value="決定する"/>
+      <text uid="dJMr2Qr24W30" value="确定"/>
+      <text uid="B0iqIJ6vBB10" value="Ob jetzt neu gestartet werden soll"/>
+      <text uid="tF5vc37vBB10" value="Restart now or not"/>
+      <text uid="1fltny8vBB10" value="今から再開するか"/>
+      <text uid="Kk0rAAmEBO40" value="是否现在重启"/>
+      <text uid="uAMoDVx64l40" value="Katze"/>
+      <text uid="61ZHzbz64l40" value="Cat"/>
+      <text uid="KjYAhcF64l40" value="ネコ"/>
+      <text uid="5HqDXql4EZ20" value="猫咪"/>
+      <text uid="ihYF5FYkrBa0" value="Gepard"/>
+      <text uid="SpYF5FYkrBa0" value="Cheetah"/>
+      <text uid="U4ZF5FYkrBa0" value="チーター"/>
+      <text uid="LCzxYFCCTJ50" value="猎豹"/>
+      <text uid="8MqHQj8KLo30" value="Hund"/>
+      <text uid="wleoU37KLo30" value="Dog"/>
+      <text uid="S2fvc31KLo30" value="犬"/>
+      <text uid="vlXnqo1csc60" value="狗狗"/>
+      <text uid="wsXAwYPbgu20" value="Elefant"/>
+      <text uid="EfXAwYPbgu20" value="Elephant"/>
+      <text uid="6gWAwYPbgu20" value="象"/>
+      <text uid="lth3YdKZZW20" value="大象"/>
+      <text uid="fFtVm2wRS480" value="Hai"/>
+      <text uid="Paha84BRS480" value="Shark"/>
+      <text uid="RndIX6ZRS480" value="鮫"/>
+      <text uid="i8saJS93Ad30" value="鲨鱼"/>
+      <text uid="NLoZuzNPa370" value="Tiger"/>
+      <text uid="nhcegBSPa370" value="Tiger"/>
+      <text uid="pu8M5EgQa370" value="虎"/>
+      <text uid="QMzQecVVot0" value="老虎"/>
+      <text uid="wUMryPbd3060" value="Verwenden Sie Const"/>
+      <text uid="W2opOFbd3060" value="Use Const"/>
+      <text uid="U5gVdVad3060" value="Constを使用する"/>
+      <text uid="JJMKGUPgam70" value="使用Const"/>
+      <text uid="KB61a4FJZi60" value="Osmanthus"/>
+      <text uid="So61a4FJZi60" value="Fragrans"/>
+      <text uid="kp51a4FJZi60" value="オスマンサス"/>
+      <text uid="zqyiIDKHph30" value="桂花"/>
+      <text uid="ya3ss0sDdX10" value="Lilie"/>
+      <text uid="CnEPzupDdX10" value="Lily"/>
+      <text uid="Q6G3atdDdX10" value="ユリ"/>
+      <text uid="lkLWQv8Hkw90" value="百合花"/>
+      <text uid="GXL7vFfO1y0" value="Pfingstrosenblume"/>
+      <text uid="6sYSJDaO1y0" value="Peony"/>
+      <text uid="4f2lUAMN1y0" value="牡丹の花"/>
+      <text uid="rCbAJ5RjQe60" value="牡丹花"/>
+      <text uid="dflV8AjaU030" value="Rose"/>
+      <text uid="hsWig4haU030" value="Rose"/>
+      <text uid="vbYwQ25aU030" value="ローズ"/>
+      <text uid="EvG2SbAKBT0" value="玫瑰"/>
+      <text uid="IV5E8OSpqV30" value="Sonnenblume"/>
+      <text uid="ah6E8OSpqV30" value="Sunflower"/>
+      <text uid="KV7E8OSpqV30" value="ひまわり"/>
+      <text uid="XAqK2EqEsqa0" value="向日葵"/>
+      <text uid="OE0J2bvqJT20" value="苹果"/>
+      <text uid="dI5UuJ94VM10" value="チェリー"/>
+      <text uid="JmSUpoFaD710" value="Verwenden Sie die Kennung"/>
+      <text uid="jSF9bqKaD710" value="Use Identifier"/>
+      <text uid="l5CH0t8bD710" value="識別子を使用する"/>
+      <text uid="6SmKrb0Lvpa0" value="使用Identifier"/>
+      <text uid="r09G7eQJnb50" value="Nicht lokalisiert"/>
+      <text uid="z3ycBaGJnb50" value="Unlocalized"/>
+      <text uid="1YF6W4UInb50" value="ローカライズされていません"/>
+      <text uid="aMarJpZWn740" value="未本地化"/>
+      <text uid="1zCQ6C3xzJ20" value="Prüfung"/>
+      <text uid="rZ2g6C3xzJ20" value="test"/>
+      <text uid="py9r3C3xzJ20" value="テスト"/>
+      <text uid="6KhAt3HqMa60" value="测试"/>
+      <text uid="6mm4RYxsEx40" value="Customize Toolbar…"/>
+      <text uid="uyl4RYxsEx40" value="Customize Toolbar…"/>
+      <text uid="mtigsvxFbK50" value="Customize Toolbar…"/>
+      <text uid="SaxSPQcYD80" value="SwiftDemo"/>
+      <text uid="uYxSPQcYD80" value="SwiftDemo"/>
+      <text uid="gwAxR2IIvB90" value="SwiftDemo"/>
+      <text uid="GcQlfiePc040" value="Find"/>
+      <text uid="4pPlfiePc040" value="Find"/>
+      <text uid="CXm5GTg4Sg30" value="Find"/>
+      <text uid="k4wUhZcIpO0" value="Lower"/>
+      <text uid="WRwUhZcIpO0" value="Lower"/>
+      <text uid="1G2RAheicX60" value="Lower"/>
+      <text uid="CPpZtyDYQN10" value="Raise"/>
+      <text uid="eDqZtyDYQN10" value="Raise"/>
+      <text uid="zyBPSHmhfT20" value="Raise"/>
+      <text uid="0wCb1IdT4P0" value="Transformations"/>
+      <text uid="oIBb1IdT4P0" value="Transformations"/>
+      <text uid="hYpAlRlYlH90" value="Transformations"/>
+      <text uid="URKaC2uDcG0" value="Spelling"/>
+      <text uid="i4KaC2uDcG0" value="Spelling"/>
+      <text uid="eG5p5DBvn790" value="Spelling"/>
+      <text uid="wJV1H7LyTwa0" value="Use Default"/>
+      <text uid="UVU1H7LyTwa0" value="Use Default"/>
+      <text uid="IOR8yfEhwy50" value="Use Default"/>
+      <text uid="mwcnrGW9Ova0" value="Speech"/>
+      <text uid="YjdnrGW9Ova0" value="Speech"/>
+      <text uid="6jRBQCGsiw0" value="Speech"/>
+      <text uid="sGLu2jAb2X10" value="Tighten"/>
+      <text uid="4uMu2jAb2X10" value="Tighten"/>
+      <text uid="5FZlaYMxGZ90" value="Tighten"/>
+      <text uid="O2Nx14BbdE40" value="Find"/>
+      <text uid="qQNx14BbdE40" value="Find"/>
+      <text uid="eAnWKIPi1H10" value="Find"/>
+      <text uid="C8gqavH2tL80" value="Enter Full Screen"/>
+      <text uid="0lfqavH2tL80" value="Enter Full Screen"/>
+      <text uid="qsoqWCpM5160" value="Enter Full Screen"/>
+      <text uid="Kz786J5Zg040" value="Quit SwiftDemo"/>
+      <text uid="mn886J5Zg040" value="Quit SwiftDemo"/>
+      <text uid="JFJ1JN7kPE20" value="Quit SwiftDemo"/>
+      <text uid="4b8CzBp2Et50" value="Edit"/>
+      <text uid="GY8CzBp2Et50" value="Edit"/>
+      <text uid="w0RrzuWXjl80" value="Edit"/>
+      <text uid="sdpFvODdAT70" value="Copy Style"/>
+      <text uid="41qFvODdAT70" value="Copy Style"/>
+      <text uid="MeASTJXMON20" value="Copy Style"/>
+      <text uid="oPbE4OeWM280" value="About SwiftDemo"/>
+      <text uid="M1bE4OeWM280" value="About SwiftDemo"/>
+      <text uid="OOzCbOBjAZ90" value="About SwiftDemo"/>
+      <text uid="4qFHLIANz0" value="Redo"/>
+      <text uid="sCEHLIANz0" value="Redo"/>
+      <text uid="lJ3zOh4bKQ90" value="Redo"/>
+      <text uid="cePa0onja660" value="Correct Spelling Automatically"/>
+      <text uid="O1Qa0onja660" value="Correct Spelling Automatically"/>
+      <text uid="fwN7pVshTC80" value="Correct Spelling Automatically"/>
+      <text uid="WyxgNM3XS70" value="Writing Direction"/>
+      <text uid="ymygNM3XS70" value="Writing Direction"/>
+      <text uid="KcJQdWpuQy70" value="Writing Direction"/>
+      <text uid="uaeSWqHNZJ50" value="Substitutions"/>
+      <text uid="SmdSWqHNZJ50" value="Substitutions"/>
+      <text uid="gKGXYElCBi30" value="Substitutions"/>
+      <text uid="2YVMjsstoi50" value="Smart Copy/Paste"/>
+      <text uid="qaVMjsstoi50" value="Smart Copy/Paste"/>
+      <text uid="SgKVSplb0f90" value="Smart Copy/Paste"/>
+      <text uid="WlT05pFhXN50" value="Main Menu"/>
+      <text uid="y9U05pFhXN50" value="Main Menu"/>
+      <text uid="ZwooaQQfXt0" value="Main Menu"/>
+      <text uid="mlrcM4G3iw10" value="Preferences…"/>
+      <text uid="KxqcM4G3iw10" value="Preferences…"/>
+      <text uid="9XT9csXswD80" value="Preferences…"/>
+      <text uid="KKtXwNCluj60" value="\tLeft to Right"/>
+      <text uid="myuXwNCluj60" value="\tLeft to Right"/>
+      <text uid="E4f0GUdd8I60" value="\tLeft to Right"/>
+      <text uid="KtSTJuvXHs50" value="Save As…"/>
+      <text uid="8GRTJuvXHs50" value="Save As…"/>
+      <text uid="f5UnPK9Nh050" value="Save As…"/>
+      <text uid="sMnpU8KBIs80" value="Close"/>
+      <text uid="QYmpU8KBIs80" value="Close"/>
+      <text uid="Rl87uHnXVQ10" value="Close"/>
+      <text uid="sstdn81Zqf10" value="Spelling and Grammar"/>
+      <text uid="4gudn81Zqf10" value="Spelling and Grammar"/>
+      <text uid="724FNR5sEn20" value="Spelling and Grammar"/>
+      <text uid="qWakymnGn480" value="Help"/>
+      <text uid="2KbkymnGn480" value="Help"/>
+      <text uid="69KbHQcR2W0" value="Help"/>
+      <text uid="ufNyuMPMKr50" value="SwiftDemo Help"/>
+      <text uid="63OyuMPMKr50" value="SwiftDemo Help"/>
+      <text uid="5NtzKZJbe0" value="SwiftDemo Help"/>
+      <text uid="cYlisw9Zqh90" value="Text"/>
+      <text uid="OLmisw9Zqh90" value="Text"/>
+      <text uid="9qxhj1iXgu30" value="Text"/>
+      <text uid="aXcGyLHF7g50" value="Substitutions"/>
+      <text uid="MKdGyLHF7g50" value="Substitutions"/>
+      <text uid="tR7SpL0YEZ0" value="Substitutions"/>
+      <text uid="SkyIXcUxcg0" value="Bold"/>
+      <text uid="u8zIXcUxcg0" value="Bold"/>
+      <text uid="mDiN0cwq6f10" value="Bold"/>
+      <text uid="I6TpJ0YfN190" value="Format"/>
+      <text uid="kUTpJ0YfN190" value="Format"/>
+      <text uid="dzosF7cPxQ60" value="Format"/>
+      <text uid="a85z6wytUV20" value="Use Default"/>
+      <text uid="MV5z6wytUV20" value="Use Default"/>
+      <text uid="iNaXif8Y8Z50" value="Use Default"/>
+      <text uid="cJv9banRcr30" value="Font"/>
+      <text uid="AVu9banRcr30" value="Font"/>
+      <text uid="qUSZjtIOvl60" value="Font"/>
+      <text uid="OZAzfaoNI50" value="Writing Direction"/>
+      <text uid="qNBzfaoNI50" value="Writing Direction"/>
+      <text uid="x344pjhg4k70" value="Writing Direction"/>
+      <text uid="05oZ7BGPXG10" value="View"/>
+      <text uid="CSoZ7BGPXG10" value="View"/>
+      <text uid="Mgjpw04QOB10" value="View"/>
+      <text uid="olsXUvBqjw0" value="Text Replacement"/>
+      <text uid="MxrXUvBqjw0" value="Text Replacement"/>
+      <text uid="Y3GavMKkub10" value="Text Replacement"/>
+      <text uid="OCLr8OXW1J80" value="Show Spelling and Grammar"/>
+      <text uid="cPKr8OXW1J80" value="Show Spelling and Grammar"/>
+      <text uid="6x5BwA96ei30" value="Show Spelling and Grammar"/>
+      <text uid="mtlbRQiSWL50" value="View"/>
+      <text uid="YgmbRQiSWL50" value="View"/>
+      <text uid="RSyF89Pwiu10" value="View"/>
+      <text uid="W1crYp0SIxa0" value="Subscript"/>
+      <text uid="yPcrYp0SIxa0" value="Subscript"/>
+      <text uid="hgv02bczya70" value="Subscript"/>
+      <text uid="WuChjRv6xl10" value="Open…"/>
+      <text uid="yiDhjRv6xl10" value="Open…"/>
+      <text uid="EIfg3KF8bD10" value="Open…"/>
+      <text uid="KPugFb8Arq10" value="Swift Demo"/>
+      <text uid="mDvgFb8Arq10" value="Swift Demo"/>
+      <text uid="RTpzQT23hC60" value="Swift Demo"/>
+      <text uid="qMfqizT96b0" value="Justify"/>
+      <text uid="2AgqizT96b0" value="Justify"/>
+      <text uid="IkLhHqzf4N60" value="Justify"/>
+      <text uid="cvLluJN6o3a0" value="Use None"/>
+      <text uid="OiMluJN6o3a0" value="Use None"/>
+      <text uid="A9DztuRK3T10" value="Use None"/>
+      <text uid="MfDgUvDABq30" value="Revert to Saved"/>
+      <text uid="asCgUvDABq30" value="Revert to Saved"/>
+      <text uid="yMCjd0e68b40" value="Revert to Saved"/>
+      <text uid="0rqtFdPrGL80" value="Show All"/>
+      <text uid="CertFdPrGL80" value="Show All"/>
+      <text uid="sjHawZXLZs70" value="Show All"/>
+      <text uid="0JCQmj7pqS0" value="Bring All to Front"/>
+      <text uid="CwDQmj7pqS0" value="Bring All to Front"/>
+      <text uid="YiP25ApAOh20" value="Bring All to Front"/>
+      <text uid="gf5c5rNpEo80" value="Paste Ruler"/>
+      <text uid="Er4c5rNpEo80" value="Paste Ruler"/>
+      <text uid="KKvFrSWZWZ40" value="Paste Ruler"/>
+      <text uid="q0DMI9T1mn10" value="\tLeft to Right"/>
+      <text uid="OcCMI9T1mn10" value="\tLeft to Right"/>
+      <text uid="UFNUEJ0TtZ40" value="\tLeft to Right"/>
+      <text uid="WekeN2YX5v0" value="Copy Ruler"/>
+      <text uid="y2leN2YX5v0" value="Copy Ruler"/>
+      <text uid="8myzhZqOOH30" value="Copy Ruler"/>
+      <text uid="C9h5FoMAWT50" value="Services"/>
+      <text uid="0mg5FoMAWT50" value="Services"/>
+      <text uid="TOSKpy66Xv50" value="Services"/>
+      <text uid="QE0EeubdPO70" value="\tDefault"/>
+      <text uid="eRZDeubdPO70" value="\tDefault"/>
+      <text uid="nLl6BHJ1M440" value="\tDefault"/>
+      <text uid="U2vs46R4zD70" value="Minimize"/>
+      <text uid="ifus46R4zD70" value="Minimize"/>
+      <text uid="dnJM2r8nUl90" value="Minimize"/>
+      <text uid="AjKKFAE8pj30" value="Baseline"/>
+      <text uid="c7LKFAE8pj30" value="Baseline"/>
+      <text uid="aX9volF8zq50" value="Baseline"/>
+      <text uid="G9iOC86dMq30" value="Hide SwiftDemo"/>
+      <text uid="iXiOC86dMq30" value="Hide SwiftDemo"/>
+      <text uid="Fq8pIbC7Sl0" value="Hide SwiftDemo"/>
+      <text uid="ewFrOaLhYH80" value="Find Previous"/>
+      <text uid="CIErOaLhYH80" value="Find Previous"/>
+      <text uid="GhGN0HktYq20" value="Find Previous"/>
+      <text uid="iBnQAQH2CW90" value="Stop Speaking"/>
+      <text uid="GNmQAQH2CW90" value="Stop Speaking"/>
+      <text uid="XCrPBwM12W50" value="Stop Speaking"/>
+      <text uid="QVaKLLl2ZN0" value="Bigger"/>
+      <text uid="sJbKLLl2ZN0" value="Bigger"/>
+      <text uid="uq7wKYmAsh10" value="Bigger"/>
+      <text uid="IElsKMtQEY80" value="Show Fonts"/>
+      <text uid="ksmsKMtQEY80" value="Show Fonts"/>
+      <text uid="NtFv996xwC60" value="Show Fonts"/>
+      <text uid="CVorVOzcYm0" value="Zoom"/>
+      <text uid="eJprVOzcYm0" value="Zoom"/>
+      <text uid="lb9LX3B7iTa0" value="Zoom"/>
+      <text uid="OmVrhwzapu80" value="\tRight to Left"/>
+      <text uid="czUrhwzapu80" value="\tRight to Left"/>
+      <text uid="AwS74DP6lp10" value="\tRight to Left"/>
+      <text uid="CpS9n0Tl9330" value="Superscript"/>
+      <text uid="0CR9n0Tl9330" value="Superscript"/>
+      <text uid="PnsUZGYxNf60" value="Superscript"/>
+      <text uid="qYGFV4QSDC10" value="Select All"/>
+      <text uid="2MHFV4QSDC10" value="Select All"/>
+      <text uid="i2GFB7D0C170" value="Select All"/>
+      <text uid="6qFVkEaMXv0" value="Jump to Selection"/>
+      <text uid="uCEVkEaMXv0" value="Jump to Selection"/>
+      <text uid="qO5TpSMxYl60" value="Jump to Selection"/>
+      <text uid="mqD3J5LUqa70" value="Window"/>
+      <text uid="YdE3J5LUqa70" value="Window"/>
+      <text uid="sOwJ99e0AO90" value="Window"/>
+      <text uid="G5QLxPRZV730" value="Capitalize"/>
+      <text uid="iTQLxPRZV730" value="Capitalize"/>
+      <text uid="PVCsxmqslL20" value="Capitalize"/>
+      <text uid="Eu6AlwwQzu0" value="Center"/>
+      <text uid="2H5AlwwQzu0" value="Center"/>
+      <text uid="FBd9vPXz6f40" value="Center"/>
+      <text uid="wWgG929lLj90" value="Hide Others"/>
+      <text uid="U8gG929lLj90" value="Hide Others"/>
+      <text uid="9epUXpDE3540" value="Hide Others"/>
+      <text uid="yk9Ynmb6fb90" value="Italic"/>
+      <text uid="Ww8Ynmb6fb90" value="Italic"/>
+      <text uid="YDGjkKo5oT60" value="Italic"/>
+      <text uid="ODC8pZeHs620" value="Edit"/>
+      <text uid="cQB8pZeHs620" value="Edit"/>
+      <text uid="LR5NHONalb0" value="Edit"/>
+      <text uid="eiiTSwRdKta0" value="Underline"/>
+      <text uid="Q5jTSwRdKta0" value="Underline"/>
+      <text uid="SONZBrPmjc50" value="Underline"/>
+      <text uid="0AGPs4HNNF90" value="New"/>
+      <text uid="CnHPs4HNNF90" value="New"/>
+      <text uid="DdtVo1d0p340" value="New"/>
+      <text uid="ca6Hj9DZh370" value="Paste and Match Style"/>
+      <text uid="Am5Hj9DZh370" value="Paste and Match Style"/>
+      <text uid="V1Mn92SYGN40" value="Paste and Match Style"/>
+      <text uid="qroiyjfFU240" value="Find…"/>
+      <text uid="ODniyjfFU240" value="Find…"/>
+      <text uid="XyZGgz1pqj80" value="Find…"/>
+      <text uid="u5BKR8q89ca0" value="Find and Replace…"/>
+      <text uid="6TBKR8q89ca0" value="Find and Replace…"/>
+      <text uid="5whuw2fIDWa0" value="Find and Replace…"/>
+      <text uid="ghRwGzQc7r20" value="\tDefault"/>
+      <text uid="EtQwGzQc7r20" value="\tDefault"/>
+      <text uid="YmTcipJMnh70" value="\tDefault"/>
+      <text uid="KFDXu2Vfuf30" value="Start Speaking"/>
+      <text uid="mtEXu2Vfuf30" value="Start Speaking"/>
+      <text uid="pJ3mdMH6CP70" value="Start Speaking"/>
+      <text uid="orSPhDaiQ130" value="Align Left"/>
+      <text uid="0fTPhDaiQ130" value="Align Left"/>
+      <text uid="uooioPSVnk80" value="Align Left"/>
+      <text uid="YwyKuQclaD0" value="Paragraph"/>
+      <text uid="mJxKuQclaD0" value="Paragraph"/>
+      <text uid="5X99zNItdb80" value="Paragraph"/>
+      <text uid="SiCtcPdYWb0" value="Print…"/>
+      <text uid="u6DtcPdYWb0" value="Print…"/>
+      <text uid="Ej85wim6CV70" value="Print…"/>
+      <text uid="QtMHofLLTQ70" value="Window"/>
+      <text uid="shNHofLLTQ70" value="Window"/>
+      <text uid="SearaVZLoL50" value="Window"/>
+      <text uid="QvNkb3cljY0" value="Font"/>
+      <text uid="eIMkb3cljY0" value="Font"/>
+      <text uid="EKFOC0f2nI80" value="Font"/>
+      <text uid="8ur2ZFO8rW90" value="Use Default"/>
+      <text uid="Khs2ZFO8rW90" value="Use Default"/>
+      <text uid="9ODeFSjx1J60" value="Use Default"/>
+      <text uid="IcH68min8n70" value="Show Colors"/>
+      <text uid="k0I68min8n70" value="Show Colors"/>
+      <text uid="5qfquSxETR40" value="Show Colors"/>
+      <text uid="wiNWSFgdqY0" value="File"/>
+      <text uid="86OWSFgdqY0" value="File"/>
+      <text uid="RtAXIKSm5y90" value="File"/>
+      <text uid="cfiMJ9r2eo20" value="Use Selection for Find"/>
+      <text uid="O2jMJ9r2eo20" value="Use Selection for Find"/>
+      <text uid="edx4It8jbWa0" value="Use Selection for Find"/>
+      <text uid="iy3IWRU46fa0" value="Transformations"/>
+      <text uid="Ul4IWRU46fa0" value="Transformations"/>
+      <text uid="eq1SeJqQZL60" value="Transformations"/>
+      <text uid="cySe71BZ5j60" value="Use None"/>
+      <text uid="OlTe71BZ5j60" value="Use None"/>
+      <text uid="Pkq1AGHEMq30" value="Use None"/>
+      <text uid="yOe4HPKhA320" value="Selection"/>
+      <text uid="aCf4HPKhA320" value="Selection"/>
+      <text uid="cwpXdyx5VB80" value="Selection"/>
+      <text uid="m4vYCKY8lK40" value="Smart Links"/>
+      <text uid="YRvYCKY8lK40" value="Smart Links"/>
+      <text uid="I5JI9kgNwj30" value="Smart Links"/>
+      <text uid="mREs6v71Tf10" value="Make Lower Case"/>
+      <text uid="K3Es6v71Tf10" value="Make Lower Case"/>
+      <text uid="hcqe3hwWqv90" value="Make Lower Case"/>
+      <text uid="22sYt5K6UG80" value="Text"/>
+      <text uid="EPsYt5K6UG80" value="Text"/>
+      <text uid="ebLaPp8lCk60" value="Text"/>
+      <text uid="wj5IJ9yyGa10" value="File"/>
+      <text uid="876IJ9yyGa10" value="File"/>
+      <text uid="UEjLqw0nlK80" value="File"/>
+      <text uid="cdN0xAJ3XAa0" value="Undo"/>
+      <text uid="O0O0xAJ3XAa0" value="Undo"/>
+      <text uid="os26aNfh6W70" value="Undo"/>
+      <text uid="sNymvHgp5H50" value="Paste"/>
+      <text uid="4BzmvHgp5H50" value="Paste"/>
+      <text uid="g51snFLLN240" value="Paste"/>
+      <text uid="U9wrBR9FR390" value="Smart Quotes"/>
+      <text uid="wXwrBR9FR390" value="Smart Quotes"/>
+      <text uid="YsI56oUwFo50" value="Smart Quotes"/>
+      <text uid="4nJ7BNj34S70" value="Check Document Now"/>
+      <text uid="szI7BNj34S70" value="Check Document Now"/>
+      <text uid="supXcIf5DH30" value="Check Document Now"/>
+      <text uid="Y8k5ZZbOqU10" value="Services"/>
+      <text uid="mlj5ZZbOqU10" value="Services"/>
+      <text uid="9l7PBdxkpt20" value="Services"/>
+      <text uid="2RiLBXlIG80" value="Smaller"/>
+      <text uid="q3iLBXlIG80" value="Smaller"/>
+      <text uid="9R81cSuOkS70" value="Smaller"/>
+      <text uid="04WScDArJUa0" value="Baseline"/>
+      <text uid="ogVScDArJUa0" value="Baseline"/>
+      <text uid="HZxp8aNyEg0" value="Baseline"/>
+      <text uid="4pd5uuBaOO50" value="Kern"/>
+      <text uid="Gce5uuBaOO50" value="Kern"/>
+      <text uid="mtWlnL8PQp20" value="Kern"/>
+      <text uid="07HjXLdwg560" value="\tRight to Left"/>
+      <text uid="ojGjXLdwg560" value="\tRight to Left"/>
+      <text uid="Ep7PZn67P550" value="\tRight to Left"/>
+      <text uid="g3HDgiJC6D70" value="Format"/>
+      <text uid="SQHDgiJC6D70" value="Format"/>
+      <text uid="UykZ51Wr9H50" value="Format"/>
+      <text uid="8vvWKqD6lp60" value="Show Sidebar"/>
+      <text uid="wHuWKqD6lp60" value="Show Sidebar"/>
+      <text uid="c3uZI5hDS980" value="Show Sidebar"/>
+      <text uid="oWtOTeQb1G50" value="Check Grammar With Spelling"/>
+      <text uid="0KuOTeQb1G50" value="Check Grammar With Spelling"/>
+      <text uid="1fXWFrujTf10" value="Check Grammar With Spelling"/>
+      <text uid="6pjUByHfOb30" value="Ligatures"/>
+      <text uid="uBiUByHfOb30" value="Ligatures"/>
+      <text uid="XxT1FdQ8nt70" value="Ligatures"/>
+      <text uid="GAOoi0JruX60" value="Open Recent"/>
+      <text uid="ioPoi0JruX60" value="Open Recent"/>
+      <text uid="Su8cQWlzSg40" value="Open Recent"/>
+      <text uid="QmNgFgt27Y10" value="Loosen"/>
+      <text uid="ezMgFgt27Y10" value="Loosen"/>
+      <text uid="b8dnvM8Ei490" value="Loosen"/>
+      <text uid="ApS7g6UUNb80" value="Delete"/>
+      <text uid="YBR7g6UUNb80" value="Delete"/>
+      <text uid="Kdo92uIYHH50" value="Delete"/>
+      <text uid="SA4xdRyxK880" value="Save…"/>
+      <text uid="uo5xdRyxK880" value="Save…"/>
+      <text uid="yHHq4y4KsY20" value="Save…"/>
+      <text uid="AWA3tl7Hoza0" value="Find Next"/>
+      <text uid="cKB3tl7Hoza0" value="Find Next"/>
+      <text uid="T5n37DheIo40" value="Find Next"/>
+      <text uid="koGkYQqThoa0" value="Page Setup…"/>
+      <text uid="IAFkYQqThoa0" value="Page Setup…"/>
+      <text uid="77i0m0y6QN20" value="Page Setup…"/>
+      <text uid="EHPC2m1TyP40" value="Check Spelling While Typing"/>
+      <text uid="gvQC2m1TyP40" value="Check Spelling While Typing"/>
+      <text uid="EWmsXPA29D10" value="Check Spelling While Typing"/>
+      <text uid="SOtNsbf0vT60" value="Smart Dashes"/>
+      <text uid="g1tNsbf0vT60" value="Smart Dashes"/>
+      <text uid="ScmWkoQ5Uy60" value="Smart Dashes"/>
+      <text uid="szCUIr9Qai60" value="Show Toolbar"/>
+      <text uid="QLBUIr9Qai60" value="Show Toolbar"/>
+      <text uid="KmWvMI6pKi60" value="Show Toolbar"/>
+      <text uid="qodUxFepYla0" value="Data Detectors"/>
+      <text uid="2ceUxFepYla0" value="Data Detectors"/>
+      <text uid="8ueJigNZxG0" value="Data Detectors"/>
+      <text uid="YmiiYeuic850" value="Open Recent"/>
+      <text uid="mzhiYeuic850" value="Open Recent"/>
+      <text uid="vwSLLgppoQ10" value="Open Recent"/>
+      <text uid="azXaXtePTb70" value="Kern"/>
+      <text uid="MmYaXtePTb70" value="Kern"/>
+      <text uid="tyrjY7s6wD10" value="Kern"/>
+      <text uid="MysAKsm9Zf20" value="SwiftDemo"/>
+      <text uid="omtAKsm9Zf20" value="SwiftDemo"/>
+      <text uid="zSXaBL6KO120" value="SwiftDemo"/>
+      <text uid="C1IrRuKrda60" value="Cut"/>
+      <text uid="ePIrRuKrda60" value="Cut"/>
+      <text uid="ZUOmitC4iJ60" value="Cut"/>
+      <text uid="GVRL3MiaWf0" value="Paste Style"/>
+      <text uid="iJSL3MiaWf0" value="Paste Style"/>
+      <text uid="jJuPvKtzRE70" value="Paste Style"/>
+      <text uid="QOAHNPAbqj0" value="Show Ruler"/>
+      <text uid="sCBHNPAbqj0" value="Show Ruler"/>
+      <text uid="R4v15Thie80" value="Show Ruler"/>
+      <text uid="KlBtblzqOG50" value="Clear Menu"/>
+      <text uid="8yAtblzqOG50" value="Clear Menu"/>
+      <text uid="rx51ZJpXse20" value="Clear Menu"/>
+      <text uid="kYVTL8HpFl60" value="Make Upper Case"/>
+      <text uid="IaVTL8HpFl60" value="Make Upper Case"/>
+      <text uid="hiD2cI3nSV30" value="Make Upper Case"/>
+      <text uid="CYLRTulHE590" value="Ligatures"/>
+      <text uid="eMMRTulHE590" value="Ligatures"/>
+      <text uid="ae0MEUrq1Ca0" value="Ligatures"/>
+      <text uid="eCc7qBGFwk10" value="Align Right"/>
+      <text uid="Qpd7qBGFwk10" value="Align Right"/>
+      <text uid="gZuwcmmRb650" value="Align Right"/>
+      <text uid="oaHku8LBKH60" value="Help"/>
+      <text uid="0YHku8LBKH60" value="Help"/>
+      <text uid="X8i4Elsrg250" value="Help"/>
+      <text uid="KQLRrdapb380" value="Copy"/>
+      <text uid="83LRrdapb380" value="Copy"/>
+      <text uid="s8vBSBNqu30" value="Copy"/>
+      <text uid="q5jVU4QU5Y10" value="Use All"/>
+      <text uid="2TjVU4QU5Y10" value="Use All"/>
+      <text uid="XWeM660x8q60" value="Use All"/>
+      <text uid="SGUWJB7h8ya0" value="Speech"/>
+      <text uid="gTTWJB7h8ya0" value="Speech"/>
+      <text uid="8sLzf8GuOe60" value="Speech"/>
+      <text uid="eYsEfJWpUWa0" value="Show Substitutions"/>
+      <text uid="CasEfJWpUWa0" value="Show Substitutions"/>
+      <text uid="Wa0gjrAnEj60" value="Show Substitutions"/>
+    </texts>
+  </cache>
+</i18n>
